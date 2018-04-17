@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 ---
 
-Our main activity is teaching [Software](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) workshops. You can find information about the Club and our work on this wiki. A good place to start is [our charter](Club-Charter).
+Our main activity is teaching [Software](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) workshops. You can find information about the Club and our work on this wiki. A good place to start is [our charter](https://uf-carpentry.github.io/website/charter/).
 
 See our [upcoming events](https://uf-carpentry.github.io/website/events/).
 
