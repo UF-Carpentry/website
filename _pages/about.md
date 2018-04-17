@@ -6,7 +6,7 @@ title: About
 
 Our main activity is teaching [Software](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) workshops. You can find information about the Club and our work on this wiki. A good place to start is [our charter](Club-Charter).
 
-See our [upcoming events](./events/).
+See our [upcoming events](https://uf-carpentry.github.io/website/events/).
 
 Join our [mailing list](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L).
 
