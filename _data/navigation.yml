@@ -4,8 +4,8 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://uf-carpentry.github.io/website/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Events"
+    url: https://uf-carpentry.github.io/website/events/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
