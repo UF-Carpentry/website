@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "UF Carpentries Club"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : "Organizers of Software and Data Carpentry workshops at the University of Florida"
+url                      : https://uf-carpentry.github.io
+baseurl                  : /website
+repository               : https://github.com/UF-Carpentry/website
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
