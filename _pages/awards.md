@@ -2,6 +2,9 @@
 layout: single
 permalink: /awards/
 title: Travel Awards
+toc: true
+toc_label: "On this page"
+toc_icon: "cog"
 ---
 
 ## Travel awards

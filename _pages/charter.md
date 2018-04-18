@@ -2,6 +2,7 @@
 layout: single
 permalink: /charter/
 title: Club Charter
+toc: true
 ---
 
 ## Mission Statement
