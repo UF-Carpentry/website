@@ -6,6 +6,10 @@ main:
     url: https://uf-carpentry.github.io/website/about/
   - title: "Events"
     url: https://uf-carpentry.github.io/website/events/
+  - title: "Governance
+    url: https://uf-carpentry.github.io/website/governance/
+  - title: "Contact"
+    url: https://uf-carpentry.github.io/website/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
