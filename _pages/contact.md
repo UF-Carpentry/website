@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Contact/
+permalink: /contact/
 title: Contact Info
 classes: wide
 ---
@@ -11,7 +11,7 @@ classes: wide
 
 Contact our board at [ufcarpentry@gmail.com](mailto://ufcarpentry@gmail.com)
 
-## Other UF Groups
+## Other Groups at UF
 
 * [R-Gators](http://www.r-gators.com/), the R users of UF
 * [DSIUFL](http://www.dsiufl.org/), the Data Science and Informatics Student Organization
