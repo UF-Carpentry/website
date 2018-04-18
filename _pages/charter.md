@@ -2,7 +2,10 @@
 layout: single
 permalink: /charter/
 title: Club Charter
+classes: wide
 toc: true
+toc_label: "On this page"
+toc_icon: "list"
 ---
 
 ## Mission Statement

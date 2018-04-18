@@ -2,6 +2,7 @@
 layout: single
 permalink: /about/
 title: About
+classes: wide
 ---
 
 Our main activity is teaching [Software](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) workshops. You can find information about the Club and our work on this wiki. A good place to start is [our charter](https://uf-carpentry.github.io/website/charter/).
