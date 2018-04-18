@@ -170,7 +170,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 collections: 
   events: 
     output: true
-    permalink: /:events/:path/
+    permalink: /:collection/:path/
 
 
 # Conversion
