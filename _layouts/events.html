@@ -21,7 +21,7 @@ layout: archive
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
       {% for event in year.items %}
-        event.title
+        <a href="{{ site.baseurl}}{{ event.url }}">{{ event.start | date: "%b %-d" }} - {{ event.title }}</a>
         {% include archive-single.html type=page.entries_layout %}
       {% endfor %}
     </div>

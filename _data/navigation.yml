@@ -7,7 +7,7 @@ main:
   - title: "Events"
     url: https://uf-carpentry.github.io/website/events/
   - title: "Governance"
-    url: {{site.url}}/governance/
+    url: https://uf-carpentry.github.io/website/governance/
   - title: "Contact"
     url: https://uf-carpentry.github.io/website/contact/
   # - title: "Sample Collections"
