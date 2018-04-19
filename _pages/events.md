@@ -1,8 +1,8 @@
 ---
+title: Workshops and Other Events
 layout: events
 permalink: /events/
-title: Workshops and Other Events
 classes: wide
-entries-layout: grid
 collection: events
+entries-layout: grid
 ---
