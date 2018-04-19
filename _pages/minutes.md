@@ -1,8 +1,10 @@
 ---
-layout: single
+layout: collection
 permalink: /minutes/
 title: Meeting Minutes
-classes: wide
+collection: minutes
+show_excerpts: false
+sort_order: reverse
 ---
 
 Here is a record of our meetings
