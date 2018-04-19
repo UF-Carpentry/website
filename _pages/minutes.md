@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: collection
 permalink: /minutes/
 title: Meeting Minutes
+collection: minutes
 classes: wide
 ---
 
