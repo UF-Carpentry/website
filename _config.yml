@@ -171,7 +171,6 @@ collections:
   events: 
     output: true
     permalink: /:collection/:path/
-collections: 
   minutes: 
     output: true
     permalink: /:collection/:path/

@@ -1,7 +1,7 @@
 ---
-title: Workshops and Other Events
 layout: events
 permalink: /events/
-collection: events
+title: Workshops and Other Events
+classes: wide
 ---
 a
