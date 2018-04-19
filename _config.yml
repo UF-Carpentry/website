@@ -97,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "UF Carpentry Club"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Organizers of Software and Data Carpentry workshops at the University of Florida"
-  location         : "Gainesville, FL (and other locations in FL)"
+  location         : "Gainesville, FL"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
