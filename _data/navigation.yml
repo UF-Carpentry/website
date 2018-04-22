@@ -3,13 +3,13 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: {{ site.baseurl }}/about/
+    url: https://uf-carpentry.github.io/website/about/
   - title: "Events"
-    url: {{ site.baseurl }}/events/
+    url: https://uf-carpentry.github.io/website/events/
   - title: "Governance"
-    url: {{ site.baseurl }}/governance/
+    url: https://uf-carpentry.github.io/website/governance/
   - title: "Contact"
-    url: {{ site.baseurl }}/website/contact/
+    url: https://uf-carpentry.github.io/website/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
