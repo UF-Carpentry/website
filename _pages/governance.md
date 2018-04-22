@@ -3,7 +3,6 @@ layout: single
 permalink: /governance/
 title: Governance
 classes: wide
-toc: true
 ---
 
 ## Club Charter
