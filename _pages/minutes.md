@@ -6,4 +6,6 @@ collection: minutes
 entries_layout: list
 sort_by: date
 sort_order: reverse
+show_excerpts: false
+excerpt: ""
 ---
