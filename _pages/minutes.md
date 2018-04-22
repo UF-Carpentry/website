@@ -1,6 +1,6 @@
 ---
 title: Meeting Minutes
-layout: minutes
+layout: collection
 permalink: /minutes/
 collection: minutes
 entries_layout: list
