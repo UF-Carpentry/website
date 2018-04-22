@@ -4,15 +4,11 @@ permalink: /awards/
 title: Travel Awards
 classes: wide
 toc: true
-toc_label: "On this page"
-toc_icon: "list"
 ---
-
-## Travel awards
 
 As an incentive to its valued instructors and to advance its two goals of bringing the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science, the Club provides financial support to its teaching members in the form of travel awards.
 
-### Use of awards
+## Use of awards
 
 Travel awards will be made for travel expenses related to the professional development of club members (regular awards) or for the advancement of club goals (special awards). Examples of  professional development for regular awards include: attending a conference, giving a talk, attending trainings and workshops, teaching at other institutions, or conducting field research.
 
@@ -24,15 +20,15 @@ The club can reimburse travel expenses for UF business travel under the followin
 
 The board reserves the option to offer more or less than the amount requested by the applicant.
 
-### Regular awards
+## Regular awards
 
 At least twice a year, normally the start of the Spring (for spring/summer travel) and Summer semesters (for fall/winter travel), the board will call for applications for travel awards. Everyone who has instructed at two or more club-organized events in the prior 2 years will be eligible to apply for an award. (This includes any Software Carpentry or Data Carpentry workshop at UF that occurred prior to the organization of the UF Carpentry Club.) Applicants may request either a $250 or a $500 award depending on their needs.
 
-### Special awards
+## Special awards
 
 The board may vote to make special awards available for specific events the board considers important to the club goals outlined in the charter. Special awards require the approval of at least ⅔ of the board. The board will identify who among the members of the UF community are eligible to respond to special award calls. The award amount will be determined by the board and applications will be solicited and evaluated as per regular awards with the exception that a statement of the applicant’s ability to meet the board’s goals will be ranked in place of the importance of the event to the applicant’s professional development (see below for more info on evaluation of applications).
 
-### Evaluation of applications
+## Evaluation of applications
 
 Before calling for applications, the board will select three members who will not be submitting applications to form an evaluation committee. Applications will be collected by the announced deadline and evaluated based on (in order):
 

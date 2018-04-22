@@ -1,10 +1,9 @@
 ---
+title: Meeting Minutes
 layout: collection
 permalink: /minutes/
-title: Meeting Minutes
 collection: minutes
-show_excerpts: false
+entries_layout: list
+sort_by: date
 sort_order: reverse
 ---
-
-Here is a record of our meetings
