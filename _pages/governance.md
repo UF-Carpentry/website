@@ -4,8 +4,6 @@ permalink: /governance/
 title: Governance
 classes: wide
 toc: true
-toc_label: "On this page"
-toc_icon: "list"
 ---
 
 ## Club Charter
@@ -14,7 +12,7 @@ The [club charter](https://uf-carpentry.github.io/website/charter/) describes th
 
 ## Board Meeting Minutes
 
-a
+Meetings of the board are open to the UF community. We also keep minutes of our meetings to help make decision-making transparent. Please see the [minutes page]({{site.url}}/minutes/) for links to the minutes from each board meeting.
 
 ## Financial Awards
 
