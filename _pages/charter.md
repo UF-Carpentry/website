@@ -18,7 +18,7 @@ Our primary activity is organizing and teaching hands-on informatics workshops u
 
 We provide financial, logistical, and instructional support for these workshops, build relationships with other UF organizations to facilitate our activities, and interface with the international Carpentries organizations on behalf of the UF community. Club activities are sustained through fees charged to workshop participants and contributions from UF entities that benefit from the workshops.
 
-In addition, the club will develop and share metrics to track the impact of our activities.  The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the [UF-Carpentry GitHub](https://github.com/UF-Carpentry).
+In addition, the club will develop and share metrics to track the impact of our activities.  The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the [UF Carpentry website]({{ site.baseurl}}).
 
 UF has a wide network of affiliated organizations and has strong relationships with many other universities and colleges in Florida. The club will leverage these connections to help other entities become a part of the Carpentry community.
 
