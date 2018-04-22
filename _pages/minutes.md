@@ -8,5 +8,3 @@ show_excerpts: false
 sort_by: date
 sort_order: reverse
 ---
-
-Here is a record of our meetings aa
