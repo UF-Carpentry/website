@@ -1,23 +1,37 @@
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | relative_url }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+<div class="sidebar well">
+{{ site.description }}
+</div>
+
+<div class="well">
+	<h1>Upcoming Events</h1>
+	{% assign current_date = site.time | date: "%Y%m%d" %}
+	{% assign numEvents = 0 %}
+	{% for event in site.events %}
+		{% assign event_date = event.start | date: "%Y%m%d" %}
+    	{% if event_date >= current_date %}
+    		<p><a href="{{ event.url }}">{{ event.title }}</a><br />
+			{{ event.start | date: "%Y %b %-d, %I:%M %P %Z" }}<br />
+			{{ event.location }}
+			</p>
+			{% assign numEvents = numEvents | plus: 1 %}
+     	{% endif %}
+     	{% if numEvents >= 3 %}
+     		{% break %}
+     	{% endif %}
     {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
-  {% endif %}
-  </div>
-{% endif %}
+</div>
+
+<div class="sidebar well">
+    <h1>New Here?</h1>
+    <p>Check out our <a href="{{ site.baseurl }}/resources.html"><strong>resources page</strong></a> for an overview of our repositories and guides.</p> 
+	<p>You may also be interested in these <a href="{{ site.baseurl }}/links.html"><strong>links</strong></a> to other tips/walkthroughs/courses.</p>
+</div>
+
+<div class="sidebar well">
+    <h1>Stay Informed!</h1>
+    Subscribe to our listserves for the latest news:
+    <ul style="padding-left:20px">
+    <li><a href="https://siomail.ucsd.edu/mailman/listinfo/bioinf">SIO Bioinformatics Users Group</a></li>
+    <li><a href="https://siomail.ucsd.edu/mailman/listinfo/r-users">SIO R Users Group</a></li>
+    </ul>
+</div>
