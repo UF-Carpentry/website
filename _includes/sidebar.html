@@ -1,27 +1,24 @@
-<div class="sidebar well">
-{{ site.description }}
-</div>
-
 <div class="sidebar">
-	<h1>Upcoming Events</h1>
-	{% assign current_date = site.time | date: "%Y%m%d" %}
-	{% assign numEvents = 0 %}
-	{% for event in site.events %}
-		{% assign event_date = event.start | date: "%Y%m%d" %}
-    	{% if event_date >= current_date %}
-    		<p><a href="{{ event.url }}">{{ event.title }}</a><br />
-			{{ event.start | date: "%Y %b %-d, %I:%M %P %Z" }}<br />
-			{{ event.location }}
-			</p>
-			{% assign numEvents = numEvents | plus: 1 %}
-     	{% endif %}
-     	{% if numEvents >= 3 %}
-     		{% break %}
-     	{% endif %}
-    {% endfor %}
-</div>
+{{ site.description }}
 
-<div class="well">
-    <h1>Stay Informed!</h1>
-    Subscribe to our [listserv](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L) for the latest news about upcoming workshops and board meetings.
+<h1>Upcoming Events</h1>
+{% assign current_date = site.time | date: "%Y%m%d" %}
+{% assign numEvents = 0 %}
+{% for event in site.events %}
+	{% assign event_date = event.start | date: "%Y%m%d" %}
+   	{% if event_date >= current_date %}
+   		<p><a href="{{ event.url }}">{{ event.title }}</a><br />
+		{{ event.start | date: "%Y %b %-d, %I:%M %P %Z" }}<br />
+		{{ event.location }}
+		</p>
+		{% assign numEvents = numEvents | plus: 1 %}
+   	{% endif %}
+   	{% if numEvents >= 3 %}
+   		{% break %}
+   	{% endif %}
+{% endfor %}
+
+<h1>Stay Informed!</h1>
+Subscribe to our [listserv](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L) for the latest news about upcoming workshops and board meetings.
+    
 </div>
