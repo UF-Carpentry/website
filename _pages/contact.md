@@ -7,7 +7,7 @@ classes: wide
 
 ## E-mail
 
-[Sign up](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L) to stay informed about upcoming workshops and board meetings.
+Join our [listserv](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L) to stay informed about upcoming workshops and board meetings.
 
 Contact our board at [ufcarpentry@gmail.com](mailto://ufcarpentry@gmail.com)
 

@@ -1,6 +1,8 @@
+<div class="well">
 {{ site.description }}
+</div>
 
-
+<div class="well">
 	<h1>Upcoming Events</h1>
 	{% assign current_date = site.time | date: "%Y%m%d" %}
 	{% assign numEvents = 0 %}
@@ -17,16 +19,9 @@
      		{% break %}
      	{% endif %}
     {% endfor %}
+</div>
 
-
-
-    <h1>New Here?</h1>
-    <p>Check out our <a href="{{ site.baseurl }}/resources.html"><strong>resources page</strong></a> for an overview of our repositories and guides.</p> 
-	<p>You may also be interested in these <a href="{{ site.baseurl }}/links.html"><strong>links</strong></a> to other tips/walkthroughs/courses.</p>
-
+<div class="well">
     <h1>Stay Informed!</h1>
-    Subscribe to our listserves for the latest news:
-    <ul style="padding-left:20px">
-    <li><a href="https://siomail.ucsd.edu/mailman/listinfo/bioinf">SIO Bioinformatics Users Group</a></li>
-    <li><a href="https://siomail.ucsd.edu/mailman/listinfo/r-users">SIO R Users Group</a></li>
-    </ul>
+    Subscribe to our [listserv](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L) for the latest news about upcoming workshops and board meetings.
+</div>
