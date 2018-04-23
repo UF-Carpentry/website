@@ -1,11 +1,26 @@
-<div class="sidebar">
-{{ site.description }}
-
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src=
+        {% if s.image contains "://" %}
+          "{{ s.image }}"
+        {% else %}
+          "{{ s.image | relative_url }}"
+        {% endif %}
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    {% endfor %}
+    
 <h3>Upcoming Events</h3>
 {% assign current_date = site.time | date: "%Y%m%d" %}
 {% assign numEvents = 0 %}
 {% for event in site.events %}
-	{% assign event_date = event.start | date: "%Y%m%d" %}
+	{% assign event_date = event.end | date: "%Y%m%d" %}
    	{% if event_date >= current_date %}
    		<p><a href="{{ event.url }}">{{ event.title }}</a><br />
 		{{ event.start | date: "%Y %b %-d, %I:%M %P %Z" }}<br />
@@ -20,5 +35,7 @@
 
 <h3>Stay Informed!</h3>
 Subscribe to our <a href = "https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L">listserv</a> for the latest news about upcoming workshops and board meetings.
-    
-</div>
+
+  {% endif %}
+  </div>
+{% endif %}
