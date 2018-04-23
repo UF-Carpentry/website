@@ -1,5 +1,6 @@
 ---
 title: "Day of R"
+layout: single
 menu: "main"
 start: 2017-08-18 09:00:00 EST
 end: 2017-08-18 16:30:00 EST
