@@ -20,8 +20,8 @@ title                    : "UF Carpentries Club"
 title_separator          : "-"
 name                     : "UF Carpentries Club"
 description              : "Organizers of Software and Data Carpentry workshops at the University of Florida"
-url                      : https://uf-carpentry.github.io
-baseurl                  : /website
+url                      : https://uf-carpentry.netlify.com
+baseurl                  : 
 repository               : https://github.com/UF-Carpentry/website
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : true # true, false (default)
