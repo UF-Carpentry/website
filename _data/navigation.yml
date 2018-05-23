@@ -1,15 +1,13 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://uf-carpentry.github.io/website/about/
+    url: https://uf-carpentry.netlify.com/about/
   - title: "Events"
-    url: https://uf-carpentry.github.io/website/events/
+    url: https://uf-carpentry.netlify.com/events/
   - title: "Governance"
-    url: https://uf-carpentry.github.io/website/governance/
+    url: https://uf-carpentry.netlify.com/governance/
   - title: "Contact"
-    url: https://uf-carpentry.github.io/website/contact/
+    url: https://uf-carpentry.netlify.com/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
