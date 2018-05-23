@@ -21,7 +21,7 @@
 {% for event in site.events %}
 	{% assign event_date = event.end | date: "%Y%m%d" %}
    	{% if event_date >= current_date %}
-   		<p><a href="{{ event.url }}">{{ event.title }}</a><br />
+   		<p><a href="{{ event.website }}">{{ event.title }}</a><br />
 		{{ event.start | date: "%Y %b %-d, %I:%M %P %Z" }}<br />
 		{{ event.location }}
 		</p>

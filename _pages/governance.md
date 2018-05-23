@@ -4,6 +4,14 @@ permalink: /governance/
 title: Governance
 classes: wide
 ---
+## Board Members
+Simona Picardi (president, Summer 2018)
+Hao Ye (secretary, Summer 2018)
+Brian Stucky
+Justin Millar
+Kristina Riemer
+Matthew Collins (treasurer, Summer 2018)
+Miao Sun
 
 ## Club Charter
 
