@@ -1,13 +1,15 @@
 # main links
 main:
   - title: "About"
-    url: https://uf-carpentry.netlify.com/about/
+    url: http://www.uf-carpentry.org/about/
   - title: "Events"
-    url: https://uf-carpentry.netlify.com/events/
+    url: http://www.uf-carpentry.org/events/
   - title: "Governance"
-    url: https://uf-carpentry.netlify.com/governance/
+    url: http://www.uf-carpentry.org/governance/
+  - title: "Minutes"
+    url: http://www.uf-carpentry.org/minutes/
   - title: "Contact"
-    url: https://uf-carpentry.netlify.com/contact/
+    url: http://www.uf-carpentry.org/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
