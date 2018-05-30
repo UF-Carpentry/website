@@ -5,7 +5,11 @@ title: About
 classes: wide
 ---
 
-Our main activity is teaching [Software](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) workshops. You can find information about the Club and our work on this wiki. A good place to start is [our charter]({{ site.baseurl }}/charter/).
+Our main activity is teaching [Software](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) workshops. 
+
+The cost for these 2-day workshops is currently $46 (as of 2018), of which about $30 goes towards food and drink (lunch and breaks). The rest is used for organizational logistics and the occasional [travel award]({{ site.baseurl }}/awards/). Our instructors, workshop members, and board all serve on a volunteer basis.
+
+A good place to find more detailed info is [our charter]({{ site.baseurl }}/charter/).
 
 ## Mission Statement
 
