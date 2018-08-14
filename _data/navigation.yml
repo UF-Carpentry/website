@@ -4,6 +4,8 @@ main:
     url: http://www.uf-carpentry.org/about/
   - title: "Events"
     url: http://www.uf-carpentry.org/events/
+  - title: "Stats"
+    url: http://www.uf-carpentry.org/stats/
   - title: "Governance"
     url: http://www.uf-carpentry.org/governance/
   - title: "Minutes"

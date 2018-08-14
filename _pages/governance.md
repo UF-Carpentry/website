@@ -1,10 +1,11 @@
 ---
 layout: single
 permalink: /governance/
-title: Governance
-classes: wide
+title: Club Governance
+toc: true
+toc_sticky: true
 ---
-## Board Members
+## Current Board Members
 
 * Simona Picardi (president, Summer 2018)
 * Hao Ye (secretary, Summer 2018)
@@ -14,6 +15,8 @@ classes: wide
 * Matthew Collins (treasurer, Summer 2018)
 * Miao Sun
 
+[Previous board members]({{ site.baseurl }}/prior_board/)
+
 ## Club Charter
 
 The [club charter]({{ site.baseurl }}/charter/) describes the goals of our organization, the executive Board for the club, and our procedures for making decisions.
@@ -22,6 +25,10 @@ The [club charter]({{ site.baseurl }}/charter/) describes the goals of our organ
 
 Meetings of the board are open to the UF community. We also keep minutes of our meetings to help make decision-making transparent. Please see the [minutes page]({{ site.baseurl }}/minutes/) for links to the minutes from each board meeting.
 
-## Financial Awards
+## Travel Awards
 
 The fees from our workshops go towards supporting club activities and also as travel awards for instructors. Please see our [award policies]({{ site.baseurl }}/awards/) for more information.
+
+## Elections
+
+Elections are held annualy. The current and previous events are described on our [elections]({{ site.baseurl }}/elections/) page. 
