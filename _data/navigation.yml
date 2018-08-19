@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "About"
-    url: http://www.uf-carpentry.org/about/
+    url: /about/
   - title: "Events"
-    url: http://www.uf-carpentry.org/events/
+    url: /events/
   - title: "Stats"
-    url: http://www.uf-carpentry.org/stats/
+    url: /stats/
   - title: "Governance"
-    url: http://www.uf-carpentry.org/governance/
+    url: /governance/
   - title: "Minutes"
-    url: http://www.uf-carpentry.org/minutes/
+    url: /minutes/
   - title: "Contact"
-    url: http://www.uf-carpentry.org/contact/
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
