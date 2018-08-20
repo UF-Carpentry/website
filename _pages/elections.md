@@ -30,4 +30,4 @@ Election ballots will be due back on 9/17/2018. Anyone who has participated in (
 
 ## Prior Elections
 
-[Spring 2018]({{ site.baseurl }}/2018-01-27-elections/)
+[Spring 2018]({{ site.baseurl }}/blog/2018-01-27-elections/)
