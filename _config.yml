@@ -20,7 +20,7 @@ title                    : "UF Carpentries Club"
 title_separator          : "-"
 name                     : "UF Carpentries Club"
 description              : "Organizers of Software and Data Carpentry workshops at the University of Florida"
-url                      : https://www.uf-carpentry.org/
+url                      : https://www.uf-carpentry.org
 baseurl                  : 
 repository               : https://github.com/UF-Carpentry/website
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -242,16 +242,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
+jekyll-archives:
+   enabled:
+     - categories
 #     - tags
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+   permalinks:
+     category: /categories/:name/
+     tag: /tags/:name/
 
 
 # HTML Compression
