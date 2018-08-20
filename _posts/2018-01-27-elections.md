@@ -1,7 +1,7 @@
 ---
-permalink: /2017-01-27-elections/
+layout: posts
 title: "Spring 2018 Elections"
-layout: single
+date: 2018-01-27
 toc: true
 toc_sticky: true
 ---

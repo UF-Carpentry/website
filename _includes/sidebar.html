@@ -24,6 +24,7 @@
    		<p><a href="{{ event.website }}">{{ event.title }}</a><br />
 		{{ event.start | date: "%Y %b %-d, %I:%M %P %Z" }}<br />
 		{{ event.location }}
+    <br />
     <a href="/events">More...</a>
 		</p>
 		{% assign numEvents = numEvents | plus: 1 %}

@@ -25,7 +25,7 @@ The Carpentries are an international organization and participating in the UF
 Carpentry club can help give you the experiance and confidence you need to 
 participate in:
 
-* [International conferences](http://www.carpentrycon.org/) on community and 
+* [International conferences](https://www.carpentrycon.org/) on community and 
 teaching
 * Expense-paid teaching opportunities
 * Mentoring

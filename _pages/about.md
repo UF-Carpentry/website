@@ -29,7 +29,7 @@ The UF Carpentries Club is a group of independent members of the UF community de
 
 Club activities are currently supported by:
 
-* [White Lab](http://whitelab.weecology.org/)
+* [White Lab](https://www.weecology.org/tags/white-lab/)
 * [UF Informatics Institute](https://informatics.institute.ufl.edu/)
 * [UF Biodiversity Institute](https://biodiversity.institute.ufl.edu/)
 * [iDigBio](https://www.idigbio.org/)
@@ -38,4 +38,4 @@ Club activities are currently supported by:
 
 We would like to thank our past supporters:
 
-* [UF Libraries](http://cms.uflib.ufl.edu/)
+* [UF Libraries](https://cms.uflib.ufl.edu/)
