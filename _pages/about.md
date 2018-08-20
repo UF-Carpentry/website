@@ -4,13 +4,6 @@ permalink: /about/
 title: About
 classes: wide
 ---
-## Mission Statement
-
-The UF Carpentries Club is a group of independent members of the UF community dedicated to providing structured pathways for our colleagues to learn informatics skills outside of the traditional university curriculum. The Club is open to any member of the UF community including staff, faculty, and students, paid, and volunteer. In addition to our core informatics goal, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
-
-## Code of Conduct
-
-We follow the [Carpentries’ Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to provide an inclusive and supportive environment for our learners and our members.
 
 <!-- from the interwebs, no idea where to find anything the existing css-->
 <style>
@@ -28,6 +21,14 @@ We follow the [Carpentries’ Code of Conduct](https://docs.carpentries.org/topi
   <div class="column"><a href="/about/workshops"><strong>Learn about our workshops</strong></a></div>
   <div class="column"><a href="/about/community"><strong>Join our community</strong></a></div>
 </div>
+
+## Mission Statement
+
+The UF Carpentries Club is a group of independent members of the UF community dedicated to providing structured pathways for our colleagues to learn informatics skills outside of the traditional university curriculum. The Club is open to any member of the UF community including staff, faculty, and students, paid, and volunteer. In addition to our core informatics goal, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
+
+## Code of Conduct
+
+We follow the [Carpentries’ Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to provide an inclusive and supportive environment for our learners and our members.
 
 ## Support
 
