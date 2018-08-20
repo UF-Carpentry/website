@@ -3,9 +3,11 @@ layout: single
 permalink: /elections/
 title: Elections
 ---
-Join the Carpentry Club board! Each year we elect 7 representatives to guide
-our workshop schedule, interface with our supporters, and create opportunites
-for peer learning at UF and beyond. 
+Join the Carpentry Club board! 
+
+The board is composed of 7 representatives, who guide the workshop schedule, interface with the supporters, and create opportunities for peer learning at UF and beyond.
+
+If you would like to become more involved in lesson planning, teaching, or more, please consider self-nominating for a board position!
 
 ## Fall 2018 Nominations Open
 
