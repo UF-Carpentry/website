@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "UF Carpentries Club"
 title_separator          : "-"
 name                     : "UF Carpentries Club"
-description              : "Organizers of Software and Data Carpentry workshops at the University of Florida"
+description              : "Teaching Data and Computational Skills at the University of Florida"
 url                      : https://www.uf-carpentry.org
 baseurl                  : 
 repository               : https://github.com/UF-Carpentry/website
