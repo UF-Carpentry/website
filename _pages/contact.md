@@ -6,11 +6,11 @@ classes: wide
 ---
 Contact our board at [ufcarpentry@gmail.com](mailto://ufcarpentry@gmail.com)
 
+Follow us on [Twitter](https://twitter.com/UFCarpentries) for announcements and live-tweets of events.
+
 View our current work in our [Github repository](https://github.com/UF-Carpentry/Coordination/issues).
 
 Join our [listserv](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L) to stay informed about upcoming workshops and board meetings.
-
-Follow us on [twitter](https://twitter.com/UFCarpentries) for announcements and live-tweets of events.
 
 ## Other Groups at UF
 
