@@ -15,7 +15,7 @@ If you would like to become more involved in lesson planning, teaching, or more,
 
 Candidates will self nominate with a short (<300 words) statement that will be publicly posted for voters to review. The criteria for individuals to stand for election to the board are:
 1. Is a member of the “UF community”, broadly defined.
-1. Has instructed, organized, or financially supported any Carpentry workshop at UF or elsewhere in the past 2 years.
+1. Has participated in a Carpentry event in any capacity (learner, helper, instructor, organizer, host, or funder) at UF or elsewhere in the past 2 years.
 
 In addition, one board member is designated the “outreach board member”. The criteria for for individuals to stand for election to outreach board member are:
 1. Must not be located on the main Gainesville campus of UF.
