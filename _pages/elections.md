@@ -3,11 +3,13 @@ layout: single
 permalink: /elections/
 title: Elections
 ---
-Join the Carpentry Club board! 
+Interested in advancing informatics skills and reproducible science at UF? Join the Carpentry Club board!
 
-The board is composed of 7 representatives, who guide the workshop schedule, interface with the supporters, and create opportunities for peer learning at UF and beyond. As a member of the Board, you will be exposed to networking with data science peers from a variety of backgrounds, be involved in the organizational aspects of the largest cross-departmental group doing informatics literacy at UF, and help make the local Carpentries community grow and be successful.
+The [Carpentries](https://carpentries.org/) is an international organization that teaches foundational coding and data science skills to researchers worldwide. The UF Carpentries Club is dedicated to bringing their inclusive and supportive culture and curricula to the University of Florida, primarily by teaching 2-day workshops in R and Python.
 
-If you would like to become more involved in lesson planning, teaching, or more, please consider self-nominating for a board position!
+Our board is composed of 7 representatives, who guide the workshop schedule, interface with our supporters, and create opportunities for peer learning at UF and beyond. As a member of the Board, you will be exposed to networking with data science peers from a variety of backgrounds, be involved in the organizational aspects of the largest cross-departmental group doing informatics literacy at UF, and help make the local Carpentries community grow and be successful.
+
+If you would like to become more involved in lesson planning, teaching, community building, and more, please consider self-nominating for a board position.
 
 ## Fall 2018 Nominations Open
 
