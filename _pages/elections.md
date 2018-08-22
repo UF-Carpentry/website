@@ -5,7 +5,7 @@ title: Elections
 ---
 Join the Carpentry Club board! 
 
-The board is composed of 7 representatives, who guide the workshop schedule, interface with the supporters, and create opportunities for peer learning at UF and beyond.
+The board is composed of 7 representatives, who guide the workshop schedule, interface with the supporters, and create opportunities for peer learning at UF and beyond. As a member of the Board, you will be exposed to networking with data science peers from a variety of backgrounds, be involved in the organizational aspects of the largest cross-departmental group doing informatics literacy at UF, and help make the local Carpentries community grow and be successful.
 
 If you would like to become more involved in lesson planning, teaching, or more, please consider self-nominating for a board position!
 
