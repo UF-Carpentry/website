@@ -5,15 +5,16 @@ title: Club Governance
 toc: true
 toc_sticky: true
 ---
-## Current Board Members
+## Current Board Members (random order)
 
-* Simona Picardi (chair, Summer 2018)
-* Hao Ye (secretary, Summer 2018)
 * Brian Stucky
-* Justin Millar
+* Hao Ye
+* Geraldine Klarenberg
+* Simona Picardi
+* Joe Andreoli
+* Elise Morrison
 * Kristina Riemer
-* Matthew Collins (treasurer, Summer 2018)
-* Miao Sun
+* Gaurav Vaidya
 
 [Previous board members]({{ site.baseurl }}/prior_board/)
 
