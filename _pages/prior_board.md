@@ -6,6 +6,16 @@ classes: wide
 ---
 ## Prior Board members
 
+### 2018 Board
+
+* Simona Picardi
+* Hao Ye
+* Brian Stucky
+* Justin Millar
+* Kristina Riemer
+* Matthew Collins
+* Miao Sun
+
 ### Fall 2017 Inaugural Board
 
 * Erica Christensen
