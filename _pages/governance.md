@@ -33,3 +33,7 @@ The fees from our workshops go towards supporting club activities and also as tr
 ## Elections
 
 Elections are held annualy. The current and previous events are described on our [elections]({{ site.baseurl }}/elections/) page. 
+
+## Operations
+
+Information about operating proceedures are available in our [public wiki on Github](https://github.com/UF-Carpentry/Coordination/wiki).
