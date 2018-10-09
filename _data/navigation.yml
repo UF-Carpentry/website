@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Code of Conduct"
+    url: /code-of-conduct/
   - title: "Events"
     url: /events/
   - title: "Stats"
