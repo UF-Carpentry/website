@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /about/
-title: About
+permalink: /code-of-conduct/
+title: Code of Conduct
 classes: wide
 ---
 
