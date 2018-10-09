@@ -133,6 +133,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _redirects
   - ["_pages"]
 exclude:
   - "*.sublime-project"

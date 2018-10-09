@@ -1,5 +1,5 @@
 # Redirect domain aliases to primary domain
-https://www.uf-carpentry.org/* https://www.uf-carpentries.org/:splat 301!
+https://www.uf-carpentry.org/* https://www.uf-carpentries.org/:splat 302!
 
 # Optional: Redirect default Netlify subdomain to primary domain
-https://uf-carpentries.netlify.com/* https://www.uf-carpentries.org/:splat 301!
+https://uf-carpentries.netlify.com/* https://www.uf-carpentries.org/:splat 302!
