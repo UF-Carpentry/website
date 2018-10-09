@@ -16,9 +16,9 @@ Our primary activity is organizing and teaching hands-on informatics workshops u
 
 We provide financial, logistical, and instructional support for these workshops, build relationships with other UF organizations to facilitate our activities, and interface with the international Carpentries organizations on behalf of the UF community. Club activities are sustained through fees charged to workshop participants and contributions from UF entities that benefit from the workshops.
 
-In addition, the club will develop and share metrics to track the impact of our activities.  The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the [UF Carpentry website]({{ site.baseurl}}).
+In addition, the club will develop and share metrics to track the impact of our activities.  The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the [UF Carpentries website]({{ site.baseurl}}).
 
-UF has a wide network of affiliated organizations and has strong relationships with many other universities and colleges in Florida. The club will leverage these connections to help other entities become a part of the Carpentry community.
+UF has a wide network of affiliated organizations and has strong relationships with many other universities and colleges in Florida. The club will leverage these connections to help other entities become a part of the Carpentries community.
 
 ## Club Board
 
@@ -30,15 +30,15 @@ To ensure that the club fulfills the mission of representing all members of the 
 
 Elections will be held at the start of each fall semester. Candidates will self nominate with a short (<300 words) statement that will be publicly posted for voters to review. The criteria for individuals to stand for election to the board are:
 1. Is a member of the “UF community”, broadly defined.
-1. Has participated in a Carpentry event in any capacity (learner, helper, instructor, organizer, host, or funder) at UF or elsewhere in the past 2 years.
+1. Has participated in a Carpentries event in any capacity (learner, helper, instructor, organizer, host, or funder) at UF or elsewhere in the past 2 years.
 
 In addition, one board member is designated the “outreach board member”. The criteria for for individuals to stand for election to outreach board member are:
 1. Must not be located on the main Gainesville campus of UF.
 1. Is not required to be a member of the UF community.
-1. Is not required to have instructed, organized, or financially supported a Carpentry workshop.
+1. Is not required to have instructed, organized, or financially supported a Carpentries workshop.
 1. Prior experience with or knowledge of the Carpentries is preferred.
 
-Anyone who has participated in (attended, helped, taught, organized, or sponsored) a UF Carpentry workshop in the prior 2 years will be eligible to vote. An election manager will be identified by the board to maintain the eligible voter list, notify voters, and tally votes.
+Anyone who has participated in (attended, helped, taught, organized, or sponsored) a UF Carpentries workshop in the prior 2 years will be eligible to vote. An election manager will be identified by the board to maintain the eligible voter list, notify voters, and tally votes.
 
 ## Amendments to the Charter
 

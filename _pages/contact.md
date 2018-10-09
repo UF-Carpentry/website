@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact Info
 classes: wide
 ---
-Contact our board at [ufcarpentry@gmail.com](mailto://ufcarpentry@gmail.com)
+Contact our board at [ufcarpentries@gmail.com](mailto://ufcarpentries@gmail.com)
 
 Follow us on [Twitter](https://twitter.com/UFCarpentries) for announcements and live-tweets of events.
 
