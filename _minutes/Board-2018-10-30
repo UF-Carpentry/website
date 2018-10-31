@@ -1,0 +1,86 @@
+---
+layout: single
+title: "2018-10-30 Board Meeting"
+menu: "main"
+date: 2018-10-30
+excerpt: "Travel awards, off-site workshops, board positions"
+---
+
+## Attendees
+Board members: Brian, Joe, Gauruv, Geraldine, Elise, Simona (remote), Kristina (remote)
+Other attendees: Matt (data manager in Simona's lab), Falcon (Dept. of Spanish/Portuguese studies at UF), Eduardo (Forestry, UF), Taylor (EPI)
+
+## Agenda
+* Introduce any new participants
+* Report/discussion of R geospatial workshop (will likely defer most/all of this to the following meeting)
+* Update on travel awards
+* Potential workshop at FIU
+* Off-site workshop program
+* Plan for board positions (chair, secretary, etc.), including documentation
+* Elections procedure: how to deal with (or prevent) ties
+* Assign chair position
+
+## Notes
+
+### Introductions
+
+### October 23-24 geospatial workshop report
+* (tabled)
+
+### Update on travel awards
+* Travel award applications independently scored by Joe, Brian, Gauruv
+* Scoring rubric is a shared Google doc
+* Had 3 applicants, could award 2
+* One recipient had to decline award, discussed options for how to proceed
+* Board in agreement to offer award to the next best-scored application
+* In the rubric, will update to include a rule for how to proceed if someone declines the award
+* Gauruv will edit and upload the rubric to the wiki site
+
+### Potential FIU workshop
+* Simona is in contact with someone who want to have a workshop at FIU
+* Simona's organizing workshop in Homestead, FIU could possibly send people to this workshop
+* We need to get more details about their level of support, if they're interested in attending the Homestead workshop, how many people they will send
+* Simona will open a GitHub issue to discuss this
+
+### Off-site workshop program
+* Board is interested in promoting a routine off-site workshop program for Research and Education Centers (REC)
+* One rotation at each REC, at least one a year
+* Could make it an official UF carpentries sponsored programs
+* Give people at RECs enough of a chance to take one while they're at the station, also extend to agencies, professionals
+* Interest in more advanced workshops as well
+
+### Board positions
+* Which positions do we need to have? How will we assign people to these positions? How often do positions switch?
+* Official positions: Chair, Secretary, Treasurer
+* Discussion of also including a Communications position to be responsible for Twitter, email, website updates, which should also be a year-long position
+* Discussion that treasurer should be a year-long role, can excuse his/herself from rotating through other roles
+* Chair and secretary are logistical positions, easy to make a checklist and hand it off to the next person
+* Chair and secretary rotate every two meeting cycles, but will be staggered, only one position will switch per meeting
+* GitHub issues will be created for the Treasurer and Communications positions
+* Brian will ask Matt for documentation of the treasurer position
+
+### Non-agenda item: EPI genomics workshop
+* Taylor brought up that EPI is interested in a workshop relating to genomics/phylogenetics
+* Lessons are made by the carpentries, so we can’t add in phylogenetics lessons, but if people want to add in material, we can work it in
+* If they don’t care that it’s called a carpentry workshop, then there is more leeway, but it could work as a carpentry workshop
+* Taylor will go over genomics lesson, and will come up with suggestions of ways to modify the lesson
+* Should discuss more thoroughly in another meeting
+
+## Non-agenda item: Slack group
+* Kristina wants to create a slack group for carpentries board
+* If we want it to work, everyone on the board should commit to it
+* Could keep github as the public forum, but use slack as a private forum
+* something for everyone to consider for next meeting 
+* add to agenda next meeting
+
+### Voting Ties for Elections
+* (tabled)
+
+### action items
+* Gauruv will edit and upload the travel award rubric to the wiki site
+* Simona will open a GitHub issue to discuss FIU workshop
+* Follow up with EPI genomics workshop
+* GitHub issues will be created for the Treasurer and Communications positions
+* Brian will ask Matt for documentation of the treasurer position
+* Add slack group to next meeting agenda
+* Geraldine will be chair next meeting, Elise will be secretary
