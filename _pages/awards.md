@@ -30,12 +30,11 @@ The board may vote to make special awards available for specific events the boar
 
 ## Evaluation of applications
 
-Before calling for applications, the board will select three members who will not be submitting applications to form an evaluation committee. Applications will be collected by the announced deadline and evaluated based on (in order):
+Before calling for applications, the board will select three members who will not be submitting applications to form an evaluation committee and will decide on the number of travel awards to be made. Each application will be evaluated separately using the following rubric to obtain a total score out of ten points:
 
-* Availability of funds to pay the selected award amount
-* Whether the applicant has been funded before (new awardees will be preferred)
-* Applicant’s statement on the importance of the event to their professional development
-* Likelihood that the applicant will be able to find funding for all travel costs either through this award or in combination with other funds
-* Prior contributions to the Carpentries Club such as teaching, meeting attendance, and board service
+1. Does the applicant meet the requirements for receiving travel funding? (1&nbsp;point for "yes")
+2. Has the applicant received travel funding from us in the past? (1&nbsp;point for "no")
+3. Has the applicant shown how this travel would benefit their professional development? (5&nbsp;points)
+4. Does the proposed travel promote the goals, broadly defined, of the UF Carpentries Club? (3&nbsp;points)
 
-Awardees must have the unanimous support of the members of the committee. If no application received unanimous support, no awards will be made that application period.
+Scores will be averaged among the evaluation committee. Travel awards will be offered to the applicants with the highest average score. If the awardee is unable to undertake the proposed travel, the award will be offered to the next highest scoring applicant. Awardees must have the unanimous support of evaluation committee. If no application received unanimous support, no awards will be made that application period.
