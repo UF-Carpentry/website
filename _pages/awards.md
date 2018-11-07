@@ -30,11 +30,11 @@ The board may vote to make special awards available for specific events the boar
 
 ## Evaluation of applications
 
-Before calling for applications, the board will select three members who will not be submitting applications to form an evaluation committee and will decide on the number of travel awards to be made. Each application will be evaluated separately using the following rubric to obtain a total score out of ten points:
+Before calling for applications, the board will select three members who will not be submitting applications to form an evaluation committee and will decide on the number of travel awards to be made. Each application will be evaluated independently by each committee member using the following rubric to obtain a score out of ten points:
 
 1. Does the applicant meet the requirements for receiving travel funding? (1&nbsp;point for "yes")
 2. Has the applicant received travel funding from us in the past? (1&nbsp;point for "no")
 3. Has the applicant shown how this travel would benefit their professional development? (5&nbsp;points)
 4. Does the proposed travel promote the goals, broadly defined, of the UF Carpentries Club? (3&nbsp;points)
 
-Scores will be averaged among the evaluation committee. Travel awards will be offered to the applicants with the highest average score. If the awardee is unable to undertake the proposed travel, the award will be offered to the next highest scoring applicant. Awardees must have the unanimous support of evaluation committee. If no application received unanimous support, no awards will be made that application period.
+After each application has been individually scored, one of the committee members will collect these scores and calculate an average score for each application. Travel awards will be offered to the applicants with the highest average score. If the awardee is unable to undertake the proposed travel, the award will be offered to the next highest scoring applicant. Awardees must have the unanimous support of evaluation committee. If no application received unanimous support, no awards will be made in that application period.
