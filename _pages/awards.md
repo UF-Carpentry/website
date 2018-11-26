@@ -38,3 +38,7 @@ Before calling for applications, the board will select three members who will no
 4. Does the proposed travel promote the goals, broadly defined, of the UF Carpentries Club? (3&nbsp;points)
 
 After each application has been individually scored, one of the committee members will collect these scores and calculate an average score for each application. Travel awards will be offered to the applicants with the highest average score. If the awardee is unable to undertake the proposed travel, the award will be offered to the next highest scoring applicant. Awardees must have the unanimous support of evaluation committee. If no application received unanimous support, no awards will be made in that application period.
+
+## Post-award blog post
+
+Within one month of the funded travel, each awardee must submit a short blog post to the UF Carpentries board reporting on how they used their travel funding and how it was of benefit to them. These blog posts will be published to the UF Carpentries website and can be used to promote future awards.
