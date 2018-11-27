@@ -5,7 +5,7 @@ title: Club Governance
 toc: true
 toc_sticky: true
 ---
-## [Meeting Minutes](https://www.uf-carpentries.org/minutes/)
+## [Meeting Minutes]({{ site.baseurl }}/minutes/)
 
 
 ## Current Board Members (random order)
