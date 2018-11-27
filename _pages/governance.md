@@ -33,7 +33,7 @@ The fees from our workshops go towards supporting club activities and also as tr
 
 ## Elections
 
-Elections are held annualy. The current and previous events are described on our [elections]({{ site.baseurl }}/elections/) page. 
+Elections are held annually. The current and previous events are described on our [elections]({{ site.baseurl }}/elections/) page. 
 
 ## Operations
 
