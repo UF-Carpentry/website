@@ -4,3 +4,5 @@ permalink: /events/
 title: Workshops and Other Events
 classes: wide
 ---
+
+## [Stats]({{ site.baseurl }}/stats)
