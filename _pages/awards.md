@@ -41,4 +41,4 @@ After each application has been individually scored, one of the committee member
 
 ## Post-award blog post
 
-Within one month of the funded travel, each awardee must submit a short blog post to the UF Carpentries board reporting on how they used their travel funding and how it was of benefit to them. These blog posts will be published to the UF Carpentries website and can be used to promote future awards.
+Within one month of the funded travel, each awardee must submit a short blog post to the UF Carpentries board reporting on their use of the awarded funds and how it was of benefit to them. These blog posts will be published to the UF Carpentries website and may be used to promote future awards.
