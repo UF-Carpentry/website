@@ -2,6 +2,7 @@
 layout: posts
 title: "Travel Awards for Fall 2018"
 date: 2018-12-05
+excerpt: We announce the winners of the 2018 Fall Travel Awards and where they travelled.
 ---
 
 We are pleased to announce that Punam S. Amratia and Justin J. Millar were awarded [travel awards](/awards/) for fall 2018.
