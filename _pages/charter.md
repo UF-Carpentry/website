@@ -40,7 +40,7 @@ In addition, one board member is designated the “outreach board member”. The
 
 Anyone who has participated in (attended, helped, taught, organized, or sponsored) a UF Carpentries workshop in the prior 2 years will be eligible to vote. An election manager will be identified by the board to maintain the eligible voter list, notify voters, and tally votes.
 
-The board administrating the election will select the six ordinary candidates who received the largest number of votes and the one outreach candidate who received the largest number of votes to constitute the next board. In case of ties, up to nine candidates may be selected to constitute the next board. The board administrating the election may use any method to choose between tied candidates to ensure that no more than nine candidates are selected to constitute the next board. The board administrating the election cannot be dissolved until the list of members of the next board has been agreed to by ⅔ of board members and has been published to the UF Carpentries website.
+The board administrating the election will select the six non-outreach candidates who received the largest number of votes and the one outreach candidate who received the largest number of votes to constitute the next board. In case of ties, up to nine candidates may be selected to constitute the next board. The board administrating the election may use any method to choose among tied candidates to ensure that no more than nine candidates are selected to constitute the next board. The board administrating the election cannot be dissolved until the list of members of the next board has been agreed to by ⅔ of board members and has been published to the UF Carpentries website.
 
 ## Amendments to the Charter
 
