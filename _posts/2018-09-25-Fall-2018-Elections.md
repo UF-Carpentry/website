@@ -79,7 +79,7 @@ I am a PhD Candidate in the WEC Department, based at the Fort Lauderdale REC. I 
 [https://www.mablab.org/people/simona-picardi/](https://www.mablab.org/people/simona-picardi/)
 
 
-<!---
+<!--
 ## Fall 2018 Nominations Open
 
 Interested in advancing informatics skills and reproducible science at UF? Join the Carpentry Club board!
@@ -101,4 +101,4 @@ In addition, one board member is designated the “outreach board member”. The
 1. Is not required to be a member of the UF community.
 1. Is not required to have instructed, organized, or financially supported a Carpentry workshop.
 1. Prior experience with or knowledge of the Carpentries is preferred.
-
+-->
