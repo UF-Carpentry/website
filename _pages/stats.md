@@ -3,12 +3,12 @@ layout: single
 permalink: /stats/
 title: Stats
 ---
-![Cumulative Participants](https://github.com/UF-Carpentry/Coordination/raw/master/graphs/cumulative_part.png)
+![Cumulative Participants](https://uf-carpentry.github.io/website-stats/cumulative_part.png)
 Cumulative participants over all workshops. Beginning of years are marked with vertical lines.
 
 ***
 
-![Cumulative Workshops](https://github.com/UF-Carpentry/Coordination/raw/master/graphs/cumulative_wks.png)
+![Cumulative Workshops](https://uf-carpentry.github.io/website-stats/cumulative_wks.png)
 Cumulative number of workshops. Beginning of years are marked with vertical lines.
 
 ***
