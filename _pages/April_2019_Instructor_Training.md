@@ -11,12 +11,12 @@ The University of Florida Carpentries Club will host an instructor training on A
 
 General information, schedule, pre- and post-training surveys can be found here:
 
-[Instructor Training Website](https://fmichonneau.github.io/2019-04-08-ttt-UF/ Website)
+[Instructor Training Website](https://fmichonneau.github.io/2019-04-08-ttt-UF/ "Website")
 
 ## How to Apply
 To apply for the instructor training workshop, please fill out the form here:
 
-[https://amy.software-carpentry.org/forms/request_training/](https://amy.software-carpentry.org/forms/request_training/ Application)
+[https://amy.software-carpentry.org/forms/request_training/](https://amy.software-carpentry.org/forms/request_training/ "Application")
 
 Use the code `"florida-april2019"` in the "Group name" box to specify the UF workshop.
 
