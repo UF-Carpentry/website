@@ -7,13 +7,15 @@ classes: wide
 
 ## April 2019 Carpentries Instructor Training
 
-The University of Florida Carpentries Club is pleased to host instructor training to certify attendees as official Carpentries Instructors.
+The University of Florida Carpentries Club is pleased to host instructor training to certify new Carpentries Instructors.
 
-when: Monday and Tuesday, April 8th and 9th, 2019, 900am - 500pm
+**dates:** Monday and Tuesday, April 8th and 9th, 2019
 
-where: the UF Informatics Institute classroom
+**time:** 900am - 500pm
 
-who: anyone is welcome to apply (see below) and attendees will be selected based on our rubric (see below)
+**location:** the UF Informatics Institute classroom
+
+**who:** anyone is welcome to apply (see below) and attendees will be selected based on our rubric (see below)
 
 More details, including schedule, pre-, and post-training surveys can be found on the workshop website:
 
