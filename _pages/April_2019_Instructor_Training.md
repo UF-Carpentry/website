@@ -17,6 +17,8 @@ The University of Florida Carpentries Club is pleased to host instructor trainin
 
 **who:** anyone is welcome to apply (see below) and attendees will be selected based on our rubric (see below)
 
+**cost:** A fee of $46.00 will be charged and lunch will be provided both days.
+
 More details, including schedule, pre-, and post-training surveys can be found on the workshop website:
 
 [Instructor Training Website](https://fmichonneau.github.io/2019-04-08-ttt-UF/ "Website")
