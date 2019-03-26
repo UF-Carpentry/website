@@ -22,7 +22,7 @@ The board reserves the option to offer more or less than the amount requested by
 
 ## Regular awards
 
-At least twice a year, normally the start of the Spring (for spring/summer travel) and Summer semesters (for fall/winter travel), the board will call for applications for travel awards. Everyone who has instructed at two or more club-organized events in the prior 2 years will be eligible to apply for an award. (This includes any Software Carpentry or Data Carpentry workshop at UF that occurred prior to the organization of the UF Carpentries Club.) Applicants may request either a $250 or a $500 award depending on their needs.
+At least twice a year, normally the start of the Spring (for spring/summer travel) and Summer semesters (for fall/winter travel), the board will call for applications for travel awards. Everyone who has taught (as an instructor or a helper) at two or more club-organized events in the prior 2 years will be eligible to apply for an award. (This includes any Software Carpentry or Data Carpentry workshop at UF that occurred prior to the organization of the UF Carpentries Club.) Applicants may request either a $250 or a $500 award depending on their needs.
 
 ## Special awards
 
