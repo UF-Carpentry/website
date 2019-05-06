@@ -43,8 +43,8 @@ After each application has been individually scored, one of the committee member
 
 Within one month of the funded travel, each awardee is expected to send their answers to the following questions to the UF Carpentry board:
 
-1. What conference did you attend and where was it located?
-2. What did you present at the conference?
-3. How did the conference go?
+1. Where did you travel and what did you do there?
+2. How did this travel benefit your professional development?
+3. How did your experiences with the UF Carpentries Club benefit you during this travel?
 
 These reports will be published to the UF Carpentries website and may be used to promote future awards.
