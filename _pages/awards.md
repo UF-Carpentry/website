@@ -10,11 +10,11 @@ As an incentive to our valued instructors and to advance our goals of bringing t
 
 ## Use of awards
 
-Travel awards will be made for travel expenses related to the professional development of club members (regular awards) or for the advancement of club goals (special awards). Examples of  professional development for regular awards include, *but are not limited to*: attending a conference, giving a talk, attending trainings and workshops, teaching at other institutions, or conducting field research.
+Travel awards will be made for travel expenses related to the professional development of club members (regular awards) or for the advancement of club goals (special awards). Examples of professional development for regular awards include, *but are not limited to*: attending a conference, giving a talk, attending trainings and workshops, teaching at other institutions, or conducting field research.
 
 The club can reimburse travel expenses for UF business travel under the following conditions:
 * A Travel Authorization is filed either through the awardee’s home department or the UF Informatics Institute.
-* All UF expenses and travel rules apply.
+* All UF expense and travel rules apply.
 * Typical allowed expenses include per-diem (excluding alcohol), airfare, car rental, hotel, and mileage.
 * The awardee will receive a letter stating the allowed amount and appropriate information on which PeopleSoft chartfields to charge if their department is handling the Travel Authorization.
 
@@ -22,7 +22,7 @@ The board reserves the option to offer more or less than the amount requested by
 
 ## Regular awards
 
-At least twice a year, normally during the Spring (for spring/summer travel) and Fall semesters (for fall/winter travel), the board will call for applications for travel awards. Everyone who has taught (as an instructor or a helper) at two or more club-organized events in the prior 2 years is eligible to apply for an award. (This includes any Software Carpentry or Data Carpentry workshop at UF that occurred prior to the organization of the UF Carpentries Club.) Applicants may request up to a $500 award depending on their needs.
+At least twice a year, normally during the Spring (for spring/summer travel) and Fall semesters (for fall/winter travel), the board will call for applications for travel awards. Everyone who has taught (as an instructor or a helper) at two or more club-organized events in the prior two years is eligible to apply for an award. (This includes any Software Carpentry or Data Carpentry workshop at UF that occurred prior to the organization of the UF Carpentries Club.) Applicants may request up to a $500 award depending on their needs.
 
 ## Special awards
 
