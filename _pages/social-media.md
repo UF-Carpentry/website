@@ -15,7 +15,7 @@ You can follow UF Carpentries Club on a number of social media websites.
 
 ## Who runs this?
 
-Members of the [UF Carpentries Club board]({{site.baseurl}}/governance) serve as administrators on these social media websites.
+Members of the [UF Carpentries Club board]({{site.baseurl}}/governance) serve as administrators on these social media websites. We use [TweetDeck](https://tweetdeck.twitter.com/) to share access to our Twitter account. Currently, Hao and Gaurav have access to our Twitter account.
 
 ## How do we run it?
 
@@ -33,7 +33,7 @@ Content shared on our social media websites should follow the guidelines and cod
 3. Disparagement of people's work (say "X is awesome!" rather than "X is better than Y").
 4. Yourself (it's "we", not "I"!).
 
-### Guidelines
+### Content guidelines
 * Tag [@TheCarpentries](https://twitter.com/thecarpentries) or [@DataCarpentry](https://twitter.com/datacarpentry) when relevant.
 * Photos, images, animated gifs and emoji are encouraged.
 * Posts are expected to be casual, not formal. Formal posts should be written as a blog post on this website and posted to our social media platforms.
