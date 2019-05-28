@@ -7,7 +7,7 @@ toc: true
 ---
 
 You can follow UF Carpentries Club on a number of social media websites. 
-**If you are unhappy with anything we post to any of these platforms, please contact us [by email](mailto:ufcarpentries@gmail.com) or [open an issue on Github](https://github.com/UF-Carpentry/Coordination/issues/new).**
+**If you have questions, concerns, or feedback you want to share with us about our posted content on any of these platforms, please contact us [by email](mailto:ufcarpentries@gmail.com) or [open an issue on Github](https://github.com/UF-Carpentry/Coordination/issues/new).**
 
 [<i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Mailing List](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L){: .btn .btn--primary}{:target="_blank"}
 [<i class="fab fa-facebook"></i> UF Carpentries Club](https://www.facebook.com/groups/322971701740318/){: .btn .btn--facebook}{:target="_blank"}
