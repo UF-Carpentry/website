@@ -1,0 +1,146 @@
+---
+layout: single
+title: "2019-05-28 Board Meeting"
+menu: "main"
+date: 2019-05-28
+excerpt: "IFAS funding, sponsors, ResBaz, Social Media"
+---
+
+## Attendees
+Board members: Simona, Hao, Joe, Brian, Gaurav, Elise
+
+Non-board members: Alethea Geiger, Plato Smith, Dimitri Bourilkov
+
+
+
+Agenda: 
+
+- Approve last week's minutes
+- Update on logo approval from UF 
+- Update on IFAS funding
+- Define target sponsors for membership renewal
+- Define incentives for sponsors
+- Update on ResBaz planning 
+- Make decision on need-based scholarship/fee reduction
+- Social media/website guidelines
+- Revamp Code of Conduct
+- Documenting curriculum-specific tips
+- Preliminary workshop schedule for Fall 2019
+- Summer workshops
+- Update on USDA/UF machine learning workshop
+
+## Notes
+
+- Approve last week's minutes
+    - approved
+- Update on logo approval from UF
+    - Can't have "University of Florida" within logo, but can have the text associated with the logo; the gator can be our logo, or we could include "FL", or...
+    - Waiting to hear back from UF about this, Elise will update
+- IFAS funding
+    - They are providing $10,000 -- only $5,000 left
+    - Is any of it reserved for the REC program?
+        - Not clear; we need to ask Geraldine about this.
+    - IFAS needs to get the money out the door soon
+    - Travel for two instructors to go to REC, about $900
+    - Two students from REC sent to UF for instructor training $907 per year
+    - Didn't discuss incentives up to IFAS, what to do about departments under IFAS?
+        - Keep incentives at the department level
+        - Remember that the REC program is of direct benefit to IFAS anyway
+        - Offer UFBI associated workshop as another component of IFAS' incentive; commit to teaching one each year; Pam would be interested
+        - Keep early registration as just department incentives
+        - Which departments under IFAS support us? WEC
+        - Contact donors about what they would like to see, what the distribution of students are for workshops; Geraldine is working on this
+        - Every 6 mos. contact donors, ask them if they're happy with their incentives
+        - Need to contact IFAS to put expectations on paper before getting money transferred
+
+- Define target sponsors for membership renewal
+    - WEC, Museum, UFBI, UFII, Ethan's lab might be out, EPI, Heath Science Libraries, UF Libraries, Biology (declined last year)
+    - We're planning to do a website for social sciences: https://github.com/UF-Carpentry/Coordination/issues/75
+    - need another 7500, if 1500/sponsor, need 5 sponsors
+    - $1500 from libraries, Plato can check with them, will confirm within the next few days
+    - Email current sponsors, people who have 
+    - UFII confirmed, UFBI confirmed
+    - Hao and Simona will check with WEC
+    - Brian and Gaurav will check with Museum
+    - Elise will reach out to Biology
+    - Re-assess once we hear from previous sponsors (send emails by next meeting)
+    - Email drafts are in Google Drive
+        - Have one from last year, assumes they haven't heard of us
+        - Have another Simona drafted that is for renewal
+
+- Define incentives for sponsors
+    - First week, set cap at half of total capacity, then set it to full capacity after that week
+    - Would this be enough?
+        - We could favour departments that sponsor us
+        - Can't do early registration for instructor training because it's application based
+    - Give input on content/timing of workshops
+    - Create a pre-set schedule
+    - Alethea has heard that set schedule is preferred
+
+- Update on ResBaz planning
+    - Tentatively week of Sept. 2nd, may do following week due to room availability
+    - Three half-days (mornings, combo afternoon/mornings)
+    - UF Innovation Hub will host reception
+    - Meeting every two weeks, by next week have dates/activities fixed
+
+- Need-based scholarship
+    - Attach survey to workshop announcements that includes: 
+        - Anon. survey that 
+
+- Social media/website guidelines
+    - Pull request for social media guidelines
+    - when should board review social media guidelines on website
+        - either look at it once it's on website
+        - pull request
+        - or do it now
+    - Pull request: #41 (https://github.com/UF-Carpentry/website/pull/41)
+    - Only issue is point 4; "Humorous content"
+    - Change to "lighthearted" or another adjective?
+    - Board approved with no changes
+
+- Code of Conduct
+    - How do we want to update it/how much detail?
+        - Make it clear that we can kick people out
+    - Want to include information about how to address code of conduct violations
+        - Too difficult for one board member to handle
+        - Should be reported to the board via gmail account
+        - Depending on where violation occurs, would go through hosting institution
+    - Draft something shorter than Carpentries code of conduct, but still conveys the same sentiment
+    
+- Documenting Curriculum-Specific Tips
+    - https://github.com/UF-Carpentry/Coordination/wiki/Curriculum-specific-notes
+    - Gaurav created above wiki page
+    - Include as a final step in the "Organizing a Workshop" guidelines
+        - Done: https://github.com/uf-carpentry/coordination/wiki/Organizing-a-Workshop#write-down-any-curriculum-specific-notes-from-the-workshop
+    - Add in etherpad links under each workshop
+        - How long are etherpad links intended to last?
+
+- Update on USDA/UF machine learning workshop
+    - Adam Rivers organizing, wants to expand to 45-50 people
+    - Mix of USDA and UF
+    - Hao sent out brief survey, recommended Adam should reach out to Alethea or Flora to organize
+    - Would that 45-50 people be too difficult to manage in a workshop?
+        - Brian will put in comment on Github
+    - Adam will handle registration logistics for USDA folks
+ 
+- Summer workshops
+    - No requests except for USDA
+    - With ResBaz, will be pretty busy
+    - Possibly EPI workshop
+        - Geraldine will reach out to them
+    - Feel like we should do something in the summer
+    - Hao will draft an email asking Informatics List if there's anyone who wants to organize a workshop
+    - Focus on fall semester, don't organize another workshop for the summer unless EPI wants one
+    
+- Preliminary workshop schedule for Fall 2019 (Tabled)
+
+## Next meeting: 
+- June 11th
+- Hao Chair, Joe Secretary
+
+
+## Action Items
+- Send emails to potential sponsors (Hao/Simona, Brian/Gaurav, Elise)  
+- Future agenda item: come up with consistent "Core" workshop schedule
+- Code of conduct updates
+    
