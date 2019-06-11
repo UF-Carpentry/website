@@ -1,0 +1,49 @@
+---
+layout: single
+title: "2019-06-11 Board Meeting"
+menu: "main"
+date: 2019-03-12
+excerpt: "EPI Workshop and Waitlist Registration"
+---
+
+# UF Carpentries Board Meeting, June 11, 2019
+
+## Attendees
+Chair: Hao
+
+Secretary: Joe
+
+Board Members: Hao, Joe, Gaurav, Simona, Brian 
+
+Non-board Members: Caroline, Alethea 
+
+## Agenda
+* Approve previous meeting's minutes
+    * Approved
+* Update on logo and approval status
+    * The new logo has been approved!
+* Update on IFAS funding
+    * Alethea has placed IFAS funding into a PO towards membership renewal 
+* Define target sponsors for membership renewal
+    * Elise has contacted Biology Department,
+    * Simona and Hao will contact Wildlife Ecology Department,
+    * Someone will need to contact EPI (Geraldine)
+    * Brian and Gaurav will contact FLNHM
+* Update on ResBaz planning
+    * We gathered preferences from ResBaz Gainesville Planning Meetings
+* Revamp Code of Conduct
+    * Hao has looked at other Codes of Conduct 
+* Preliminary workshop schedule for Fall 2019
+    * Hao would like our REC commitment codified on the website
+    * Caroline asked if anyone from the RECs had taken this last instructors' training
+        * Brian and Simona said not yet. 
+        * Two labs at the South Florida REC are committed to getting their students more involved in the Carpentries Club
+* Summer workshops
+    * Hao has sent out email to Informatics Teaching Listserv about summer workshops
+* Update on USDA/UF machine learning workshop
+    * Brian attended meeting along with Gaurav, Dmitri, and Adam Rivers that focused on concepts and the scikit-learn
+    * One room reserved in Reitz Union
+    * August 27th and 28th
+    * Classic Fare will be the caterer 
+
+* Action Items for 6/25/19 Meeting
