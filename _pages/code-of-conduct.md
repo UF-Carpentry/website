@@ -17,7 +17,7 @@ We recognize that individuals and groups in our community are subject to histori
 
 ## Expected Behavior
 
-All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
+All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform, whether online or in-person. In order to foster a positive and professional learning environment, we encourage the following kinds of behaviours in all Carpentries events and platforms:
 
 * use welcoming and inclusive language that is appropriate for a diverse audience
 * be respectful of different viewpoints and experiences
@@ -45,13 +45,13 @@ Examples of unacceptable behavior include:
 
 ## Enforcement
 
-Community members and workshop participants who are asked to stop any harassing or discriminatory behavior are expected to comply immediately. This applies to all of our workshops and events, as well as interactions that take place online, across e-mail, etherpad, social media, etc.
+Community members and workshop participants who are asked to stop any harassing or discriminatory behavior are expected to comply immediately. This applies to all of our workshops and events, as well as interactions that take place online, across e-mail, Etherpad, social media or in any other medium.
 
-If someone engages in behavior that violates this code of conduct, they may be warned, asked to leave the event or premises, and/or reported to other organizations for further investigation and sanctions (including, but not limited to The Carpentries Code of Conduct Committee, the University of Florida, or law enforcement). 
+If someone engages in behavior that violates this code of conduct, they may be warned, asked to leave the event or premises, or reported to other organizations for further investigation and sanctions (including, but not limited to The Carpentries Code of Conduct Committee, the University of Florida, or law enforcement). 
 
 If you are being harassed, notice that someone else is being harassed, or have any concerns, please let us know through one or more of these reporting options:
 
-**(Do note that some of contacts may be UF employees who are mandatory reporters. If you have concerns about privacy or escalation of certain incidents, you may wish to use the anonymous form or check with the instrutor or organizer of the event before reporting.)**
+**(Do note that some of contacts may be UF employees who are mandatory reporters. If you have concerns about privacy or escalation of certain incidents, you may wish to use the anonymous form or check with the instructor or organizer of the event before reporting.)**
 
 * an instructor or organizer for a workshop event
 * this [anonymous google form](***)
@@ -59,12 +59,12 @@ If you are being harassed, notice that someone else is being harassed, or have a
 * the [UF Carpentries email account](mailto:ufcarpentries@gmail.com), to which the board has access
 * email Alethea (UFII)
 * email Flora (UFII)
-* UF Police Department (non-emergency: 352 392 1111; emergency: 911)
+* [UF Police Department](https://police.ufl.edu/contact/) (non-emergency: 352-392-1111; emergency: 911)
 
 Carpentries reporting
 * the Carpentries [Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2)
 * email the Carpentries [Code of Conduct committee](mailto:coc@carpentries.org)
-* email the Carpentries [ombuds, Cam Macdonell](confidential@carpentries.org)
+* email the Carpentries [ombuds, Cam Macdonell](mailto:confidential@carpentries.org)
 
 ## Summary Version (for use in presentations)
 
@@ -82,7 +82,7 @@ The UF Carpentries Club supports a positive, supportive, and harassment-free env
 
 **Have a concern?** Let one of the event organizers know, or use our [anonymous reporting form](***)
 
-Read our full Code of Conduct at: https://www.uf-carpentries.org/code-of-conduct/
+Read our full Code of Conduct at: [https://www.uf-carpentries.org/code-of-conduct/](https://www.uf-carpentries.org/code-of-conduct/)
 
 ## License & Acknowledgments
 This document is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
