@@ -66,7 +66,25 @@ Carpentries reporting
 * email the Carpentries [Code of Conduct committee](mailto:coc@carpentries.org)
 * email the Carpentries [ombuds, Cam Macdonell](confidential@carpentries.org)
 
+## Summary Version (for use in presentations)
+
+The UF Carpentries Club supports a positive, supportive, and harassment-free environment for learning. We request that attendees at our events:
+
+:white_check_mark: use welcoming and inclusive language
+
+:white_check_mark: be respectful of different viewpoints and experiences
+
+:white_check_mark: give everyone a chance to talk and contribute
+
+:x: do not make demeaning jokes or comments
+
+:x: do not insult, harass, or threaten violence
+
+**Have a concern?** Let one of the event organizers know, or use our [anonymous reporting form](***)
+
+Read our full Code of Conduct at: https://www.uf-carpentries.org/code-of-conduct/
 
 ## License & Acknowledgments
+This document is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
 
-This document is adapted from multiple sources, including the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), the [Davis R-Users Group Code of Conduct](https://d-rug.github.io/code-of-conduct.html) and the [Weecology Lab Code of Conduct](https://github.com/weecology/lab-wiki/wiki/WEecology:-Code-of-Conduct).
+This document is adapted from multiple sources, including the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), the [Davis R-Users Group Code of Conduct](https://d-rug.github.io/code-of-conduct.html), the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and the [Weecology Lab Code of Conduct](https://github.com/weecology/lab-wiki/wiki/WEecology:-Code-of-Conduct).
