@@ -5,7 +5,7 @@ title: Code of Conduct
 classes: wide
 ---
 
-The UF Carpentries Club exists to foster a community for inclusive learning and teaching of informatics skills. Thus, we are committed to creating a welcoming, supportive, safe, and harassment-free environment for everyone, regardless of background or identity. This code of conduct helps us in this objective.
+The UF Carpentries Club exists to foster a community for inclusive learning and teaching of informatics skills. Thus, we are committed to creating a welcoming, supportive, safe, and harassment-free environment for everyone, regardless of background or identity. This code of conduct helps us in achieving this objective.
 
 This document supplements the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), which also applies to our workshops.
 
@@ -24,7 +24,7 @@ All participants in our events and communications are expected to show respect a
 * act in good faith and assume that others do as well: e.g. gracefully accept constructive criticism
 * give everyone a chance to talk and contribute to activities and discussions
 * humor is appreciated; however, sexual, racist, or exclusionary jokes and imagery are never appropriate
-* recognize that intentions do not equal impact; be ready to apologize or correct yourself when this occurs
+* recognize that intentions do not equal impact; be ready to apologize and correct yourself when this occurs
 
 ## Unacceptable Behavior
 
@@ -51,17 +51,17 @@ If someone engages in behavior that violates this code of conduct, they may be w
 
 If you are being harassed, notice that someone else is being harassed, or have any concerns, please let us know through one or more of these reporting options:
 
-**(Do note that some of contacts may be UF employees who are mandatory reporters. If you have concerns about privacy or escalation of certain incidents, you may wish to use the anonymous form or check with the instructor or organizer of the event before reporting.)**
+**(Do note that some of the below people are UF employees who are legally required to report incidents, specifically child abuse and sexual harassment. If you have concerns about privacy or escalation of certain incidents, you may wish to use the anonymous form or check with the instructor or organizer of the event before reporting.)**
 
 * an instructor or organizer for a workshop event
-* this [anonymous google form](***)
+* this [anonymous google form](***), which is seen by the board
 * any of the [board members](https://www.uf-carpentries.org/governance/)
-* the [UF Carpentries email account](mailto:ufcarpentries@gmail.com), to which the board has access
-* email Alethea (UFII)
-* email Flora (UFII)
+* the [UF Carpentries email account](ufcarpentries@googlegroups.com), to which the board has access
+* email [Alethea Geiger](mailto:ageiger0213@ufl.edu) (UFII staff)
+* email [Flora Marynak](mailto:flora.marynak@ufl.edu) (UFII)
 * [UF Police Department](https://police.ufl.edu/contact/) (non-emergency: 352-392-1111; emergency: 911)
 
-Carpentries reporting
+Carpentries reporting:
 * the Carpentries [Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2)
 * email the Carpentries [Code of Conduct committee](mailto:coc@carpentries.org)
 * email the Carpentries [ombuds, Cam Macdonell](mailto:confidential@carpentries.org)
