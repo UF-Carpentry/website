@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "UF Carpentries Club"
   avatar           : "/assets/logos/uf-carpentries-textless-circular.svg"
   bio              : "Organizers of Software and Data Carpentry workshops at the University of Florida"
   location         : 

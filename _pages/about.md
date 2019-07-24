@@ -28,7 +28,15 @@ The UF Carpentries Club is a group of independent members of the UF community de
 
 ## Support
 
-Club activities are currently supported by:
+For 2019-2020, Club activities are supported by:
+
+* [UF Libraries](https://cms.uflib.ufl.edu/)
+* [UF Informatics Institute](https://informatics.institute.ufl.edu/)
+* [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)
+* [UF Department of Wildlife Ecology & Conservation](http://www.wec.ufl.edu/)
+* [UF IFAS](https://ifas.ufl.edu/)
+
+2018-2019 sponsors:
 
 * [White Lab](https://www.weecology.org/tags/white-lab/)
 * [UF Informatics Institute](https://informatics.institute.ufl.edu/)
@@ -37,6 +45,12 @@ Club activities are currently supported by:
 * [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)
 * [UF Department of Wildlife Ecology & Conservation](http://www.wec.ufl.edu/)
 
-We would like to thank our past supporters:
+Founding sponsors (2017 and earlier):
 
+* [White Lab](https://www.weecology.org/tags/white-lab/)
+* [UF Informatics Institute](https://informatics.institute.ufl.edu/)
+* [UF Biodiversity Institute](https://biodiversity.institute.ufl.edu/)
+* [iDigBio](https://www.idigbio.org/)
+* [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)
 * [UF Libraries](https://cms.uflib.ufl.edu/)
+
