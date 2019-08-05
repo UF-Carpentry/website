@@ -54,9 +54,9 @@ If you are being harassed, notice that someone else is being harassed, or have a
 **(Do note that some of the below people are UF employees who are legally required to report incidents, specifically child abuse and sexual harassment. If you have concerns about privacy or escalation of certain incidents, you may wish to use the anonymous form or check with the instructor or organizer of the event before reporting.)**
 
 * an instructor or organizer for a workshop event
-* this [anonymous google form](***), which is seen by the board
+* this [anonymous google form](https://docs.google.com/forms/d/e/1FAIpQLSdFLEqHCUhH-ONEnNp-ewycXD6pa1CeDGRp4m4bZjodibMuPw/viewform?usp=sf_link), which is visible to the board
 * any of the [board members](https://www.uf-carpentries.org/governance/)
-* the [UF Carpentries email account](ufcarpentries@googlegroups.com), to which the board has access
+* the [UF Carpentries email account](mailto:ufcarpentries@googlegroups.com), to which the board has access
 * email [Alethea Geiger](mailto:ageiger0213@ufl.edu) (UFII staff)
 * email [Flora Marynak](mailto:flora.marynak@ufl.edu) (UFII)
 * [UF Police Department](https://police.ufl.edu/contact/) (non-emergency: 352-392-1111; emergency: 911)
