@@ -80,7 +80,7 @@ The UF Carpentries Club supports a positive, supportive, and harassment-free env
 
 :x: do not insult, harass, or threaten violence
 
-**Have a concern?** Let one of the event organizers know, or use our [anonymous reporting form](***)
+**Have a concern?** Let one of the event organizers know, or use our [anonymous reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdFLEqHCUhH-ONEnNp-ewycXD6pa1CeDGRp4m4bZjodibMuPw/viewform?usp=sf_link)
 
 Read our full Code of Conduct at: [https://www.uf-carpentries.org/code-of-conduct/](https://www.uf-carpentries.org/code-of-conduct/)
 
