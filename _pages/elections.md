@@ -42,7 +42,7 @@ In addition, one board member is designated the "outreach board member". The cri
 
 Candidates will self nominate with a short statement (< 300 words) to be publicly posted for voters to review. The deadline for nominations is midnight of Wednesday, September 4.
 
-The election committee will review eligibility and proceed to post statements and generate ballots to be distributed.w
+The election committee will review the eligibility of all nominees. Candidates' statements will then be posted to our website before voting begins.
 
 ## Prior Elections
 
