@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /code-of-conduct/
+permalink: /rec-program/
 title: Carpentries REC Program
 classes: wide
 ---
