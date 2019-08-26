@@ -38,7 +38,7 @@ In addition, one board member is designated the "outreach board member". The cri
 
 ## Nominations
 
-[Self nomination form]()
+[Self nomination form](https://forms.gle/41snKdQDtW7dH4cW7)
 
 Candidates will self nominate with a short statement (< 300 words) to be publicly posted for voters to review. The deadline for nominations is midnight of Wednesday, September 4.
 
