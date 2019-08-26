@@ -4,9 +4,9 @@ permalink: /elections/
 title: Elections
 ---
 
-## Fall 2019 Schedule
-
 Elections for the 2019-2020 UF Carpentries Club board are starting!
+
+## Fall 2019 Elections Schedule
 
 Nominations will be open from Monday, August 26 until midnight of Wednesday, September 4.
 
