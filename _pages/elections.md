@@ -8,9 +8,11 @@ Elections for the 2019-2020 UF Carpentries Club board are starting!
 
 ## Fall 2019 Elections Schedule
 
-Nominations will be open from Monday, August 26 until midnight of Wednesday, September 4.
+Nominations will be open from Monday, August 26 until ~~midnight of Wednesday, September 4~~. **Due to the weather, we are extending election nominations until Monday, September 9.**
 
-Ballots will be distributed on Monday, September 9, and are due back by midnight of Tuesday, September 17.
+~~Ballots will be distributed on Monday, September 9, and are due back by midnight of Tuesday, September 17~~.
+
+**Dates for ballots and voting are TBD.**
 
 ## Announcement
 
