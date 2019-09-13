@@ -18,7 +18,7 @@ If you believe you are an eligible voter, but have not yet received a ballot lin
 
 I am currently a post-doctoral researcher at UF's Geology Department. I received my Software Carpentry instructor certification in 2016, was an instructor at the 2017 iDigBio Summit's Data Carpentry Workshop, and have been a helper at several workshops in 2016, 2017, and 2018. I took a little break from workshops to finish my PhD, but I would very much like to have the opportunity to continue serving on the board. 
 
-https://www.researchgate.net/profile/Elise_Morrison
+[https://www.researchgate.net/profile/Elise_Morrison](https://www.researchgate.net/profile/Elise_Morrison)
 
 ### Daniel Calzadilla
 
@@ -28,7 +28,7 @@ I choose to self-nominate because I look forward to improving my skills and assi
 
 In conclusion, I find helping others rewarding, especially when the endeavors are in the scientific and academic fields. I worked in customer service and managed a kitchen for about ten years and understand the dynamics of assisting others and team building. I also have experience leading workshops when I was the organic garden manager at FIU. I hope to further my skills and give back to the club and university at large that has helped me develop software literacy.
 
-https://www.linkedin.com/in/daniel-calzadilla-29112379/
+[https://www.linkedin.com/in/daniel-calzadilla-29112379/](https://www.linkedin.com/in/daniel-calzadilla-29112379/)
 
 ### Brian Stucky
 
@@ -38,7 +38,7 @@ I was among the first carpentries instructors trained at UF (in early 2016), and
 
 I am a Research Assistant Scientist in the Department of Pathology. I am interested in the evolutionary processes that shape pathogens diversity, spanning from large-scale epidemic to small-scale transmission histories and within-host evolutionary processes. To investigate pathogen evolution, I apply phylodynamics, molecular epidemiology, transcriptomics and genomics (NGS). In the Salemi lab, I lead the cholera-arboviral research and manage graduate students, biological scientists, and technicians. I am teacher and organizer of the NGS module of the International Bioinformatics Workshop on Virus Evolution and Molecular Epidemiology. During my postdoc appointment at UF, I established many collaborations within my department, as well as with the department of epidemiology, biology, infectious medicine and IFAS. In the past three years I attended Carpentries workshops, and on April 2019 I organized and taught the intro to genomics workshop. I became a certified Carpentries instructor on July 2019. I am inspired by the Carpentries' teaching philosophy and system. I am excited to be part of the Carpentries and I would like to participate even further in the Carpentries activities by joining the UF Carpentries Club Board. As a Board member it is my goal to support the Carpentries by bringing my expertise in genomics and phylogenetics and promoting networking within UFHealth, as well as to acquire professional development skills that can advance my professional career.
 
-https://onehealth.ifas.ufl.edu/one-health-center-of-excellence-team-directory/carla-mavian-profile/
+[https://onehealth.ifas.ufl.edu/one-health-center-of-excellence-team-directory/carla-mavian-profile/](https://onehealth.ifas.ufl.edu/one-health-center-of-excellence-team-directory/carla-mavian-profile/)
 
 ### Minghao Gong
 
@@ -46,13 +46,13 @@ I am Minghao Gong, a recently graduated PhD. I have been through a 5-year traini
 
 It will be my honor and my extreme pleasure to join the board of the Carpentries organization and became an instructor who may be able to help UF communities to strengthen their data analysis skills. I have been through the self-training process and thus have kindred spirit with them, which is critical for successful training. I was also a hand-on data scientist who is actively involved in biomedical data. Such experience should provide unique opportunities to better engage biomedical scientists who accounted for a large amount of individuals in the campus. Finally, with iron will, I am eager to fully engage in the field of data science, as demonstrated by my next career choice. Thus, I am committed to engage in active networking with other instructors and students, which hopefully contribute my own efforts to trigger the "data mania" in UF communities. 
 
-https://www.linkedin.com/in/minghao-gong-a5839449/
+[https://www.linkedin.com/in/minghao-gong-a5839449/](https://www.linkedin.com/in/minghao-gong-a5839449/)
 
 ### Eve Bohnett
 
 My formal experience with the Carpentries began in April 2019 when I became a certified instructor and attended a Geospatial workshop here at UF. Having been acquainted with Dr. White's Data Carpentry involvement and coursework I was excited to get involved in the group. Since the training, I have taught several workshops from the data carpentry for social sciences and geospatial curriculum. I look forward to continuing my involvement here locally as well if I can assist in some capacity. My other teaching experiences here on campus include the undergraduate experimental biology course (2017-2019) and an upcoming Landscape Architecture studio course (2020). Currently, I'm in the 4th year of my PhD program in Landscape Architecture (finishing up this year or next). Since my primary dissertation work is about statistical ecology, teaching with the Carpentries has given me a venue to teach R and data science workshops relevant to my field and gain that unique teaching experience.  I'm also interested in teaching beyond the Carpentries workshop curriculum in the specific types of modeling workflows that I have learned how to do.  
 
-linkedin.com/in/evebohnett
+[linkedin.com/in/evebohnett](linkedin.com/in/evebohnett)
 
 ### Jenicca Poongavanan (for Outreach Board Member)
 
@@ -62,10 +62,10 @@ I started with a Bachelor’s degree in South Africa at the Nelson Mandela Unive
 
 Thanking you for your consideration.
 
-https://mablab.org/people/jenicca-poongavanan/
+[https://mablab.org/people/jenicca-poongavanan/](https://mablab.org/people/jenicca-poongavanan/)
 
 ### Vratika Chaudhary
 
 I am a certified data carpentry instructor and attend R workshops held by R gator. I organize R workshops for WEC undergrads and I do hope to include more undergrads in UF carpentries workshop.
 
-https://vratchaudhary.github.io/
+[https://vratchaudhary.github.io/](https://vratchaudhary.github.io/)
