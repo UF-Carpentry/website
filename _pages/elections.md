@@ -20,7 +20,7 @@ I am currently a post-doctoral researcher at UF's Geology Department. I received
 
 [https://www.researchgate.net/profile/Elise_Morrison](https://www.researchgate.net/profile/Elise_Morrison)
 
-### Daniel Calzadilla
+### Daniel Calzadilla (non-Gainesville; eligible as Outreach Board Member)
 
 I attend a Carpentries workshop earlier this year in April, focusing on R and SQL. As a recent graduate and new hire with the University, I found the training to be precious in my pursuit of research in my career and academic goals. I am still becoming familiar with the programs and need more experience using them for data analysis and organization. I enjoyed the environment and style of the workshop, finding it easy to learn the fundamentals of the different programs.
 
@@ -54,7 +54,7 @@ My formal experience with the Carpentries began in April 2019 when I became a ce
 
 [linkedin.com/in/evebohnett](linkedin.com/in/evebohnett)
 
-### Jenicca Poongavanan (for Outreach Board Member)
+### Jenicca Poongavanan (non-Gainesville; eligible as Outreach Board Member)
 
 I am a master’s student in Interdisciplinary Ecology with the University of Florida, working under the supervision of Mathieu Basille. My work will be focusing on seabirds movement ecology, specifically on how environmental gradients shape seabirds spatial behavior. I am nominating myself as an outreach board member owing to the fact that I am officially based at the Fort Lauderdale Research and Education Center and am only temporarily based in Gainesville for classes until spring 2020. 
 
