@@ -52,7 +52,7 @@ It will be my honor and my extreme pleasure to join the board of the Carpentries
 
 My formal experience with the Carpentries began in April 2019 when I became a certified instructor and attended a Geospatial workshop here at UF. Having been acquainted with Dr. White's Data Carpentry involvement and coursework I was excited to get involved in the group. Since the training, I have taught several workshops from the data carpentry for social sciences and geospatial curriculum. I look forward to continuing my involvement here locally as well if I can assist in some capacity. My other teaching experiences here on campus include the undergraduate experimental biology course (2017-2019) and an upcoming Landscape Architecture studio course (2020). Currently, I'm in the 4th year of my PhD program in Landscape Architecture (finishing up this year or next). Since my primary dissertation work is about statistical ecology, teaching with the Carpentries has given me a venue to teach R and data science workshops relevant to my field and gain that unique teaching experience.  I'm also interested in teaching beyond the Carpentries workshop curriculum in the specific types of modeling workflows that I have learned how to do.  
 
-[linkedin.com/in/evebohnett](linkedin.com/in/evebohnett)
+[https://www.linkedin.com/in/evebohnett](https://www.linkedin.com/in/evebohnett)
 
 ### Jenicca Poongavanan (non-Gainesville; eligible as Outreach Board Member)
 
