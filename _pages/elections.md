@@ -4,8 +4,6 @@ permalink: /elections/
 title: Elections
 ---
 
-Elections for the 2019-2020 UF Carpentries Club board are starting!
-
 ## 2019-2020 UF Carpentries Club Elections
 
 Please welcome the new board:
