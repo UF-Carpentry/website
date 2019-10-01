@@ -19,6 +19,7 @@ classes: wide
 </style>
 <div class="row">
   <div class="column"><a href="/about/workshops"><strong>Learn about our workshops</strong></a></div>
+  <div class="column"><a href="/rec-program"><strong>Learn about our REC program</strong></a></div>
   <div class="column"><a href="/about/community"><strong>Join our community</strong></a></div>
 </div>
 
