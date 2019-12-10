@@ -62,7 +62,7 @@ Board members: Brian Stucky, Eve Bohnett, Vratika Chaudhary, Carla Mavian (chair
 
 
 ## Next board meeting
-* the beginning of the week. The exact time to be scheduled. 
+* the beginning of the first week of 2020. The exact time to be scheduled. 
 
 
 ## Officer positions
