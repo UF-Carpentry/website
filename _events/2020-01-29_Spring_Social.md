@@ -8,4 +8,3 @@ location: "UF Informatics Institute UFII Conference Room (E252)"
 website: "TBD"
 topics: "*Please join us for a special UF Carpentries Club Spring Social on Wednesday, January 29th!*"
 ---
-
