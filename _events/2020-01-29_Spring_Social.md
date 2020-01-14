@@ -4,19 +4,9 @@ layout: single
 menu: "main"
 start: 2020-01-29 11:30:00 EST
 
-location: "UF Informatics Institute"
+location: "UF Informatics Institute UFII Conference Room (E252)"
 website: "TBD"
 topics: "*Please join us for a special UF Carpentries Club Spring Social on Wednesday, January 29th!*,
-
 *We will be celebrating the activities of the Club and the new workshop schedule with pizza!!*"
 ---
 
-Please join us for a special UF Carpentries Club Spring Social on Wednesday, January 29th!
-
-We will be celebrating the activities of the Club and the new workshop schedule with pizza!!
-
-Everyone is welcome to come and get to know other members of the community, learn about the activities of the Club, and find out how to get involved in our workshops as helpers, instructors, etc.
-
-Wednesday, January 29th: Lunch will begin at 11.30AM and finish at 1:30pm. 
-
-UFII Conference Room (E252).
