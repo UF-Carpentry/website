@@ -3,11 +3,12 @@ title: "UF Carpentries Spring Social"
 layout: single
 menu: "main"
 start: 2020-01-29 11:30:00 EST
-end: 2020-01-29 13:30:00 EST
+
 location: "UF Informatics Institute"
 website: "TBD"
-topics: "*Informal to Data Carpentry and Pizza Lunch*"
+topics: "*Informal Intro to Data Carpentry and Pizza Lunch*"
 ---
+
 Please join us for a special UF Carpentries Club Spring Social on Wednesday, January 29th!
 
 We will be celebrating the activities of the Club and the new workshop schedule with pizza!!
