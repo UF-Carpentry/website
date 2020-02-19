@@ -5,37 +5,33 @@ title: Instructor Training
 classes: wide
 ---
 
-## April 2019 Carpentries Instructor Training
+## March 2020 Carpentries Instructor Training
 
 The University of Florida Carpentries Club is pleased to host instructor training to certify new Carpentries Instructors.
 
-**dates:** Monday and Tuesday, April 8th and 9th, 2019
+**Dates:** Monday and Tuesday, March 9 and 10, 2020
 
-**time:** 900am - 500pm
+**Time:** 9:00 AM - 5:00 PM
 
-**location:** the UF Informatics Institute classroom
+**Location:** The UF Informatics Institute classroom.
 
-**who:** anyone is welcome to apply (see below) and attendees will be selected based on our rubric (see below)
+**Who:** Anyone is welcome to apply (see below) and attendees will be selected based on an evaluation rubric (see below).
 
-**cost:** A fee of $46.00 will be charged and lunch will be provided both days.
+**Cost:** The training workshop costs $46.00, which includes lunch on both days.
 
 More details, including schedule, pre-, and post-training surveys can be found on the workshop website:
 
-[Instructor Training Website](https://fmichonneau.github.io/2019-04-08-ttt-UF/ "Website")
+[Instructor Training Website](https://uf-carpentry.github.io/2020-03-09-UFII_InstructorTraining/ "Website")
 
 ## How to Apply
 
-To apply for the instructor training workshop, please fill out the form here:
+To apply for the instructor training workshop, please fill out the form at [https://amy.carpentries.org/forms/request_training/](https://amy.carpentries.org/forms/request_training/). For "Application Type", choose "Pre-approved Registration" and use "2020-03-09-UFII_InstructorTraining" for the registration code.
 
-[https://amy.software-carpentry.org/forms/request_training/](https://amy.software-carpentry.org/forms/request_training/ "Application")
+**In the "Anything else?" text box at the bottom of the application, please describe how you plan to use the tools/skills gained from the workshop.**
 
-Use the code `"florida-april2019"` in the "Group name" box to specify the UF workshop.
+## Application Evaluation
 
-**When filling out the form, in the "Anything else?" text box at the bottom of the application, applicants should also describe how they plan to use the tools/skills gained from the workshop.** Applications will be evaluated with the following rubric: 
-
-## Instructor Training Application Rubric
-
-Three Carpentries Club board members will serve as judges. Judges will independently assign a score to each application and will meet to compare scores. 
+Three Carpentries Club board members will serve as judges. Judges will independently assign a score to each application _without_ seeing any of the applicants' names. Judges will then meet to compare scores. 
 
 The questions from the Carpentries application will be scored as follows: 
 
@@ -75,3 +71,4 @@ The questions from the Carpentries application will be scored as follows:
     * If an applicant has a vague idea of how they will use these skills/tools: 1 point
     * If an applicant has a moderate plan for how they will use these skills/tools: 2 points
     * If an applicant has a clear plan for how they will use these skills/tools: 3 points
+
