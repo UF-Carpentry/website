@@ -1,4 +1,12 @@
 
+---
+layout: single
+title: "2020-02-18 Board Meeting"
+menu: "main"
+date: 2020-02-18
+excerpt: "Financial review, Workshop updates, Social sciences feedback"
+---
+
 People present:Vratika, Brian, Alethea, Hao, Dmitri, Eve
 Chair: Vratika
 Minutes: Eve
