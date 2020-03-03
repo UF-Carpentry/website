@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "2020-02-18 Board Meeting"
