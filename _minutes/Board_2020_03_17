@@ -1,0 +1,106 @@
+---
+layout: single
+title: "2020-03-17 Board Meeting"
+menu: "main"
+date: 2020-03-17
+excerpt: "COVID response, pre-workshop survey"
+---
+## Agenda
+- Approve minutes from March 3, 2020 board meeting: https://www.uf-carpentries.org/minutes/board-2020-03-03/
+- Instructor training debrief
+    - Plans for future Carpentries membership
+- Plan for upcoming workshops re: coronavirus
+    - Geospatial
+    - Genomics
+    - UCF?
+- Travel award re-submission
+    - What to do if travel cancelled due to virus?
+- Annual report (for IFAS, etc.) update
+- Improved pre-workshop survey: https://docs.google.com/forms/d/1za7FX0FxjBpj7FqEZ1zwEK1dy_Snv84LgPZ87GPkBVo/edit
+
+## Notes
+
+- Attendees: Board members: Elise Morrison (secretary), Brian Stucky (Chair), Alethea Geiger, Eve Bohnett, Vratika Chaudhary
+- Non-board members: Shelly Gaynor, Plato Smith
+
+### Meeting minutes
+- approved
+
+### Instructor Training Debrief
+- Two instructors from the Carpentries
+- Karen participated remotely
+- Sher came to teach in person
+- Had 11 participants, not at half capacity
+- Do we need to offer instructor training every year?
+    - there may not be that much demand
+- Do we want to release a survey to see who is interested?
+    - Use the results to adjust our membership status with the Carpentries organization
+    - In the off years, we could use a lower tier of Carpentries enrollment ($8k savings, not including instructor lodging/travel)
+    - Could we use the savings to lower our registration fees for workshops?
+    - For a future carpentries meeting, Brian will work out a budget so we can discuss further
+    - Alethea will see if we can adjust affiliations on our DOCE form
+
+### Plan for upcoming workshops re: coronavirus
+- Everything required to be online for the rest of the semester
+- Let's not consider an on-campus option
+- Decision is between cancelling and moving online
+    - Should drop fees if we do an online workshop
+        - General agreement to drop fees or eliminate fees if that's the case
+    - What about dates?
+        - 30th and 31st dates will be tricky to meet
+    - Majority of UFII are working from home, UFII events are being postponed
+    - There's one other workshop that's trying to decide at the moment
+    - Lose too much of the in person experience with having workshops online
+    - Interest in using this as a trial to test out this new mechanism
+    - Going online could be an option for the REC centers
+    - What is the Carpentries' policy about this? 
+    - Eve said that the Carpentries generally hasn't encouraged online training, but is promoting webinars
+    - Zoom chat as an option, could have people post in the chat room, also could do breakout rooms
+    - There is a "request remote control" option for zoom as well
+    - Plato has done something similar
+    - Will people have issues with the material for geospatial when working remotely?
+    - Do we want to have an intro to R workshop first? But, we just offered one, so duplicating might limit the number of people that sign up
+    - For helper functionality, breakout room will take the user out of the main session, then have them return to the main session; or use the etherpad as the way for students to communicate with helpers
+    - What does everyone else think?
+        - would require more coordination
+        - offer as free
+        - March 30/31st is too early
+        - Would still want registration process
+        - would do a normal registration as with UFIIs free events
+        - require a registration code to join
+    - Decisions: 
+        - Let march 30/31st dates go
+        - At least one workshop this semester
+        - Do we want to make a decision on content?
+        - Could go with geospatial, keep it simple, Filipe is interested in teaching remotely, will teach about the basics of NEON, 4h block
+        - Eve has taught it 2-3 times
+        - Use breakout rooms, etherpad
+        - Geospatial, just as website has planned, change registration and date
+        - Do we plan on having a participation limit? Keep a nominal fee to keep numbers at a certain base, don't want 50 people joining. 
+        - Previously, people had issues with installation, but could work around this; things went smoothly once past installation
+        - Want a small enough enrollment to keep it managable
+        - Cap at usual number of 25
+        - Either $5 or free
+        - Full two days, or just one day workshop
+        - Agreed for two day workshop
+    - What dates do we want for the geospatial workshop? 
+        - April 6th and 7th is Genomics
+        - So, will do early May for Geospatial
+- Could expand this format to the REC workshop format, open it up to more people and other RECs
+- Check with Carla and Taylor to see if they want to do genomics online, or if they want to cancel it
+
+### Travel award re-submission
+- What do we do if conference travel cancelled?
+- Do we allow the funding to be used for postponed workshops?
+- If the event is postponed, then we let them use the award for the postponed conference, or the next relevant conference that they want to use it for. They will notify the board re: what workshop they will use it for
+- Elise will email update to other boardmembers
+
+### Improved pre-workshop survey
+- Link to draft of the survey: https://docs.google.com/forms/d/1za7FX0FxjBpj7FqEZ1zwEK1dy_Snv84LgPZ87GPkBVo/edit
+- Elise will give access to board members for edits
+- Try to have the draft completed before next meeting
+- Have on an iPad for people to fill this out when they come to workshops  
+
+### Next meeting
+Chair: Brian
+Secretary: Elise
