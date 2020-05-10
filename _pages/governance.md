@@ -13,13 +13,13 @@ Meetings of the board are open to the UF community. We also keep minutes of our 
 ## Current Board Members (random order)
 
 * Brian Stucky
-* Hao Ye
-* Geraldine Klarenberg
-* Simona Picardi
-* Joe Andreoli
+* Eve Bohnett
+* Vratika Chaudhary
+* Minghao Gong
+* Carla Mavian
+* Jennica Poongavanan
 * Elise Morrison
-* Kristina Riemer
-* Gaurav Vaidya
+
 
 [Previous board members]({{ site.baseurl }}/prior_board/)
 
