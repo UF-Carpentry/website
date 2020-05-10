@@ -6,6 +6,17 @@ classes: wide
 ---
 ## Prior Board members
 
+### 2019 Board
+
+* Brian Stucky
+* Hao Ye
+* Geraldine Klarenberg
+* Simona Picardi
+* Joe Andreoli
+* Elise Morrison
+* Kristina Riemer
+* Gaurav Vaidya
+
 ### 2018 Board
 
 * Simona Picardi
