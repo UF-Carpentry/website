@@ -1,10 +1,10 @@
 ---
-title: "Geospatial meets NEON"
+title: "Data Carpentry for Ecologists"
 layout: single
 menu: "main"
-start: 2020-05-18 9:00:00 EST
-end: 2020-05-19 16:30:00 EST
+start: 2020-06-29 9:00:00 EST
+end: 2020-07-07 12:00:00 EST
 location: "Zoom Online Workshop"
-website: https://uf-carpentry.github.io/2020-05-18-UFII_geospatial_NEON/
-topics: "*Geospatial Workshop*,*R Programming*, *Tidy Data*, *NEON*"
+website: https://uf-carpentry.github.io/2020-06-29-IFAS_REC_ecology/
+topics: "*Ecology Workshop*,*R Programming*, *Tidy Data*, *NEON*"
 ---
