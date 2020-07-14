@@ -1,9 +1,13 @@
-Meeting Minute July 14th 2020
-===
-
+---
+layout: single
+title: "2020-07-14 Board Meeting"
+menu: "main"
+date: 2020-07-14
+excerpt: "Zoom safety"
+---
 ###### tags: July 14th 2020 meeting minutes
 
-:::info
+
 - **Location:** Zoom
 - **Date:** July 14th, 2020 2:30 PM (EDT)
 - **Agenda**
@@ -22,7 +26,7 @@ Meeting Minute July 14th 2020
     
 
 
-:::
+
 ## Last meeting minutes 
 Since we did not have majority of the board attending the meeting, we decided to move the meeting to next week. 
 
