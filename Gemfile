@@ -15,6 +15,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.5"
 gem "minimal-mistakes-jekyll"
+gem "kramdown-parser-gfm"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
