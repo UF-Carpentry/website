@@ -7,11 +7,12 @@ title: Elections
 ## 2020 UF Carpentries Club Elections!
 
 **Ballots will be distributed on TBD, and are due back by midnight of TBD.**
-<p> If you believe you are an eligible voter, but have not yet received a ballot link, please contact us immediately.<br>
 
-You can place your vote [here](https://docs.google.com/forms/d/1ZRPpFAseeYcNuQc_xgYsMs-gO7DCVVis9Z3mVVodg84/edit). <br>
+You can place your vote [here](https://forms.gle/LCYHTuMTQRzitKaUA).
 
-Please vote for **7** board members. </p>
+If you believe you are an eligible voter, but have not yet received a ballot link, please contact us immediately.
+
+Please vote for **7** board members.
 
 ## 2019-2020 UF Carpentries Club Elections Candidate Statements
 Candidates are in alphabetical order. 
