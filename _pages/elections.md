@@ -7,11 +7,11 @@ title: Elections
 ## 2020 UF Carpentries Club Elections!
 
 **Ballots will be distributed on TBD, and are due back by midnight of TBD.**
-If you believe you are an eligible voter, but have not yet received a ballot link, please contact us immediately.
+<p> If you believe you are an eligible voter, but have not yet received a ballot link, please contact us immediately.<br>
 
-You can place your vote at: https://docs.google.com/forms/d/1ZRPpFAseeYcNuQc_xgYsMs-gO7DCVVis9Z3mVVodg84/edit
+You can place your vote [here](https://docs.google.com/forms/d/1ZRPpFAseeYcNuQc_xgYsMs-gO7DCVVis9Z3mVVodg84/edit). <br>
 
-Please vote for **7** board members
+Please vote for **7** board members. </p>
 
 ## 2019-2020 UF Carpentries Club Elections Candidate Statements
 Candidates are in alphabetical order. 
@@ -21,15 +21,15 @@ I am an research scientist at the Florida Museum in Department of Natural Histor
 
 ### Vijay Barve
 I have attended carpentries training in 2016 followed by instructor training and have been associated with UF Carpentries Club as a helper for a few workshops. I use Python and R for my own work and I am interested in open data and open source software. I love training people in informatics and have been doing that in Africa and Asia. I believe in empowering the researchers with analytical tools that contribute to better research and carpentries really works in that area. I would love to support the UF Carpentries Club in the mission. 
-Professional profile: http://vijaybarve.net/
+[Professional profile](http://vijaybarve.net/)
 
 ### Trista Brophy
 I am running for a board membership position to help advance coding and data science skills among the UF community. While I am new to coding and data science, I’ve seen the transformative power these skills can have through their use in my own doctoral research over the last year. I have taken the live Software Carpentry workshops with the NASA DEVELOP program where I learned Unix shell, version control with Git, and the Python and R programming languages. I am also familiar with JavaScript and Google Earth Engine. Because data science is such a broad field that has applications in research of every type, I am particularly interested in lesson planning to meet the needs of the diverse research conducted in the UF community. Additionally, many people do not yet know the power that coding and data science can have on their research efforts or are timid in incorporating these tools due to a lack of knowledge or understanding. I want to reach these people, help them build the foundational coding and data science skills through The Carpentries teaching framework, and boost their confidence in using data science to better address their research data. As scientists, we are always learning, growing, and embracing new technology and tools to answer the complex questions of life on this planet and beyond. Let’s do it together through the UF Carpentries Club. 
-Professional profile: https://www.linkedin.com/in/tristabrophy/
+[Professional profile](https://www.linkedin.com/in/tristabrophy/)
 
 ### Audrey Culver Smith
 Since I began my PhD in spring of 2018, I have attended multiple workshops hosted by the UF Carpentries Club and become familiar with the Club’s structure, goals, and some of the active and organizing members. I have also helped to share Club’s activities and mission with other graduate students (and undergrads) in my department- Geography- and beyond by sharing information about workshops and other opportunities provided by UF Carpentries. During the summer of 2020, I volunteered as a helper for the Geospatial meets NEON workshop held in May and moderator for the Data Carpentry for Ecologists workshop held in July.  I am interested in serving on the Club Board to become more involved with the group and help organize workshops and other events, train as an instructor, and recruit volunteers and instructors.  Specifically, as a member of the UF Carpentry Club Board, I would like to help broaden the reach and visibility of the Club across campus and expand its membership. 
-Professional profile: https://www.researchgate.net/profile/Audrey_Smith3
+[Professional profile](https://www.researchgate.net/profile/Audrey_Smith3)
 
 ### Brandon Merriell
 I was initially exposed to the Carpentries organization by two knowledgeable individuals whom I frequently turned to for coding assistance over the past year. These individuals suggested that I get involved with the Carpentries, so prior to the outbreak of Covid-19, I attended several of their meetings. After attending a few of the meetings, I knew I wanted to get involved. Although I have not participated in a Carpentries workshop thus far, I am looking forward to assisting with workshops as a helper for the first time this semester.
