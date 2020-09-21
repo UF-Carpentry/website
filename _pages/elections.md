@@ -6,7 +6,7 @@ title: Elections
 
 ## 2020 UF Carpentries Club Elections!
 
-**Ballots will be distributed on TBD, and are due back by midnight of TBD.**
+**Ballots will be distributed on Sept. 21st, and are due back by midnight of Sept. 29th.**
 
 You can place your vote [here](https://forms.gle/LCYHTuMTQRzitKaUA).
 
