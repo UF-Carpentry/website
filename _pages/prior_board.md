@@ -6,6 +6,15 @@ classes: wide
 ---
 ## Prior Board members
 
+### 2020 Board
+* Vratika Chaudhary
+* Minghao Gong
+* Elise Morrison
+* Jenicca Poongavanan
+* Brian Stucky
+* Eve Bohnett
+* Carla Mavian
+
 ### 2019 Board
 
 * Brian Stucky
