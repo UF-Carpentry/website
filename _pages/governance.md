@@ -12,13 +12,13 @@ Meetings of the board are open to the UF community. We also keep minutes of our 
 
 ## Current Board Members (random order)
 
+* Vijay Barve
+* Audrey Culver Smith
 * Brian Stucky
-* Eve Bohnett
-* Vratika Chaudhary
-* Minghao Gong
+* Massimiliano S. Tagliamonte	
 * Carla Mavian
-* Jennica Poongavanan
-* Elise Morrison
+* Narayani Barve
+* Trista Brophy
 
 
 [Previous board members]({{ site.baseurl }}/prior_board/)
