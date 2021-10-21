@@ -6,6 +6,24 @@ classes: wide
 ---
 ## Prior Board members
 
+### 2022 Board
+* Trista Brophy
+* Narayani Barve
+* Audrey Culver Smith
+* Amobichukwu Chukwudi Amanambu
+* Jason Cory Brunson
+* Caitlin Campbell
+* Amanda Markee
+
+### 2021 Board
+* Trista Brophy
+* Brandon Merriell
+* Massimiliano S. Tagliamonte
+* Brian Stucky
+* Narayani Barve
+* Vijay Barve
+* Audrey Culver Smith
+
 ### 2020 Board
 * Vratika Chaudhary
 * Minghao Gong
