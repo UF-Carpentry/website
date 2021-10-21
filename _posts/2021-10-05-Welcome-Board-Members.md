@@ -9,7 +9,7 @@ The 2021-2022 Carpentries Club Board Members are (in random order):
 
 * Trista Brophy
 * Narayani Barve
-* Audrey Culver Smith,
+* Audrey Culver Smith
 * Amobichukwu Chukwudi Amanambu
 * Jason Cory Brunson
 * Caitlin Campbell
