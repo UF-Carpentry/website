@@ -1,10 +1,10 @@
 ---
-title: "Intro to Data Analysis in R"
+title: "Data Analysis in R"
 layout: single
 menu: "main"
 start: 2022-02-21 10:00:00 EST
 end: 2022-02-22 3:30:00 EST
 location: "Zoom Online Workshop"
-website: 
-topics: "This is Part 2 of the lesson 'R for Reproducible Scientific Analysis.' Registration info & workshop website coming soon!"
+website: "https://amobijones.github.io/2022-02-21-Data-analysis-in-R/"
+topics: "This is Part 2 of the lesson 'R for Reproducible Scientific Analysis."
 ---
