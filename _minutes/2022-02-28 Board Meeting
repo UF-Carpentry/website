@@ -1,0 +1,73 @@
+---
+layout: single
+title: "2022-02-28 Board Meeting"
+menu: "main"
+date: 2022-02-28
+excerpt: "February 2022 Meeting 2"
+---
+2022-02-28 Board Meeting
+###### tags: `UF Caprentries` `Meeting` `Minutes`
+## Meeting Info
+- **Location:** Remote
+- **Date:** February 28, 2022 11:00 AM (EST)
+- **Agenda**
+1. Introductions
+2. Approve minutes from meeting on Feb. 14. Link to the minutes https://www.uf-carpentries.org/minutes/board-2022-02-14/
+3. Update on FY22 budget
+4. Update on sponsorship email
+5. Brief report of the "Data Analysis in R" workshop
+6. Discussion about the future workshops in this semester
+7. Other business
+
+- **Participants:**
+    - Cory Brunson, Amanda Markee, Caitlin Campbell, Audrey Smith, Narayani Barve, Vijay Barve, Amobichukwu Amanambu, Dellena Bloom, Mahya Sam
+    - **Meeting Chair:** Narayani
+    - **Meeting Secretary:** Amanda
+
+## Notes
+<!-- Other important details discussed during the meeting can be entered here. -->
+
+### Introductions
+- Board members introduced themselves to meeting attendees
+- Dellena Bloom was a helper in the last workshop looking to be more involved, and Mahya Sam recently joined our mailing list
+
+### Approve meeting minutes
+- Minutes were approved from February 14 meeting
+
+### Update on FY22 budget
+- Trista started a position outside of UF, but is still helping with our financial management. We will reach out to her about the membership tier for FY22
+- Alethea is coordinating directly with sponsors to initiate transfer of funds
+
+### Update on sponsorship email
+- Cory received an update back from the Health Science Center Libraries sponsorship, he denoted their response in the spreadsheet.
+- Narayani will send her potential sponsor emails ASAP.
+- No one else has heard back from their potential sponsors from last week's update
+- We will bump the sponsorship emails one more time for folks who have not replied to our initial emails
+- Cory will include an inquiry on Trista's potential sponsor emails to her directly
+- IFAS donated a significant amount last year, and were expecting a detailed report. Audrey will reach out to Geraldine to get an update on this from last year, to see if we can request sponsorship from IFAS again.
+
+###  Brief report of the "Data Analysis in R" workshop
+- Cory Takeaways: The workshop in real time flowed smoothly
+- Dont break up workshops unless you absolutely need to
+- We should try out etherpad as an alternative to slack
+- Caitlin Takeaways: We floated the idea of better documenting the timeline workflow for planning workshop. 
+- Would help with having a calendar for when we need to market the workshops
+- Key Takeaway: We should have a set time every year/semester for certain workshops, to streamline the planning of workshops. (ie. Intro to R in January, with same lesson plan yearly)
+- If we have these workshop dates set, we can announce them in new grad students orientation in departments like Biology, geography etc.
+- This helps with ensuring people have enough time to register, and that instructors and helpers can block off time to attend.
+
+### Discussion about the future workshops in this semester
+- Amanda will email Flora with the information regarding our three centrally oganized workshops coming up
+- Amanda will email Danielle (centrally organized contact) to see if we need to provide helpers and volunteers
+
+### Other business
+- We will have a seperate meeting for content development for the fixed workshops
+- For our Zoom meeting discussing yearly schedule, we should send this out to the Informatics listserv
+- Hao Ye informed us that there has been updated policy on Data Carpentries logo use. Check this email for information
+- We should have a central contact for the UFGI group that Aida coordinates, who periodically attends their meetings
+- Lastly, for our board meetings, after agendas are posted as issues on GitHub, we will resolve the issue once the minutes are posted
+- Secretary after the meeting will close the agenda issue, and also post the event page for our upcoming board meeting on the website (as an event linked to the next agenda, with Zoom link)
+
+### Notes for next meeting:
+- Note next chair Audrey, Cory will take minutes
+- Next meeting is March 14th 11AM
