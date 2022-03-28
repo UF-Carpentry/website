@@ -1,5 +1,5 @@
 ---
-title: "Intro to Python Workshop"
+title: "Introduction to Python"
 layout: single
 menu: "main"
 start: 2022-04-11
