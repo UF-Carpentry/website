@@ -1,10 +1,10 @@
 ---
-title: "Introduction to Python"
+title: "Intro to Python: Shell, Git, Plotting & Programming"
 layout: single
 menu: "main"
 start: 2022-04-11
 end: 2022-04-12
 location: "Zoom Online Workshop"
 website: 
-topics: "Topics include: Plotting & Programming in Python. Registration & Workshop Website Coming Soon!" 
+topics: "Workshop Website & Registration Coming Soon!" 
 ---
