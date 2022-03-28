@@ -1,10 +1,10 @@
 ---
-title: "Software Carpentry (Shell, Git, Plotting and Programming in Python)"
+title: "Intro to Python Workshop"
 layout: single
 menu: "main"
 start: 2022-04-11
 end: 2022-04-12
 location: "Zoom Online Workshop"
-website: 
-topics: ""
+website: "Registration & Workshop Website Coming Soon!"
+topics: "Plotting & Programming in Python"
 ---
