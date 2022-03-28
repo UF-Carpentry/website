@@ -1,5 +1,5 @@
 ---
-title: "Library Carpentry Workshop"
+title: "Library Carpentry"
 layout: single
 menu: "main"
 start: 2022-04-18
