@@ -5,6 +5,6 @@ menu: "main"
 start: 2022-04-11
 end: 2022-04-12
 location: "Zoom Online Workshop"
-website: 
-topics: "Topics include:Shell, Git, Plotting & Programming. Workshop Website & Registration Coming Soon!" 
+website: https://sanjayfuloria.github.io/2022-04-11-ufl-online/
+topics: "Topics include: Shell, Git, Plotting & Programming." 
 ---
