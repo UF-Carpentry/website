@@ -29,7 +29,22 @@ The UF Carpentries Club is a group of independent members of the UF community de
 
 ## Support
 
-For 2019-2020, Club activities are supported by:
+For 2021-2022, Club activities are supported by:
+
+* [UF Informatics Institute](https://informatics.institute.ufl.edu/)
+* [UF Biodiversity Institute](https://biodiversity.institute.ufl.edu/)
+* [UF Libraries](https://cms.uflib.ufl.edu/)
+* [UF Department of Wildlife Ecology & Conservation](http://www.wec.ufl.edu/)
+
+2020-2021 sponsors:
+
+* [UF Informatics Institute](https://informatics.institute.ufl.edu/)
+* [UF Biodiversity Institute](https://biodiversity.institute.ufl.edu/)
+* [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)
+* [UF Department of Wildlife Ecology & Conservation](http://www.wec.ufl.edu/)
+* [UF Libraries](https://cms.uflib.ufl.edu/)
+
+2019-2020 sponsors:
 
 * [UF Libraries](https://cms.uflib.ufl.edu/)
 * [UF Informatics Institute](https://informatics.institute.ufl.edu/)
