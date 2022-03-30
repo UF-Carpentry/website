@@ -1,5 +1,5 @@
 ---
-title: "Data Carpentry: Shell, Git, Plotting & Programming in Python: "
+title: "Data Carpentry: Shell, Git, Plotting & Programming in Python"
 layout: single
 menu: "main"
 start: 2022-04-11
