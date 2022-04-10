@@ -2,7 +2,7 @@
 title: "Library Carpentry"
 layout: single
 menu: "main"
-start: 2022-04-18
+start: Rescheduled- Stay tuned for new dates!
 end: 2022-04-19
 location: "Zoom Online Workshop"
 website: https://librarycarpentry.org/lc-overview/
