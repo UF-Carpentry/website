@@ -1,8 +1,8 @@
 ---
-title: "Library Carpentry"
+title: "Library Carpentry- Rescheduled- Stay tuned for new dates!"
 layout: single
 menu: "main"
-start: Rescheduled- Stay tuned for new dates!
+start: 
 end: 
 location: "Zoom Online Workshop"
 website: https://librarycarpentry.org/lc-overview/
