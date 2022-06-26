@@ -35,6 +35,10 @@ The fees from our workshops go towards supporting club activities and also as tr
 
 You can follow UF Carpentries Club on a number of social media websites, which we update as per our [social media policy]({{site.baseurl}}/governance/social-media).
 
+## Board Duties
+
+Specific responsibilites of elected board members and board meeting chairs and secretaries are described on our [duties]({{ site.baseurl }}/duties/) page.
+
 ## Elections
 
 Elections are held annually. The current and previous events are described on our [elections]({{ site.baseurl }}/elections/) page.
