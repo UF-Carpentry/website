@@ -41,7 +41,7 @@ In addition, one Board member may be designated the “Outreach Board Member.”
 
 Candidates will self nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. The deadline for self-nominations is 11:59 pm on Friday, September 16th.
 
-You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLSdNA7oD9FTUeCZhhaGwdFiKAIAm9CoUxyBSCf4OSbxVPiZLsA/viewform)
+You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLSdNA7oD9FTUeCZhhaGwdFiKAIAm9CoUxyBSCf4OSbxVPiZLsA/viewform?usp=sf_link)
 
 ## Prior Elections
 
