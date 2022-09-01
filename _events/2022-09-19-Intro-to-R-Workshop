@@ -6,5 +6,5 @@ start: 2022-09-19 10:00:00 EST
 end: 2022-09-20 3:30:00 EST
 location: "Zoom Online Workshop"
 website: https://uf-carpentry.github.io/2022-09-19-Intro-to-R-online/
-topics: "*Ecology Workshop*,*R Programming*, *Tidy Data*"Analysis' Topics include: Intro to R/R Studio, Project Management, Reading and writing data, Data frame manipulation, Graphics w/ ggplot2"
+topics: "*Ecology Workshop*,*R Programming*, *Tidy Data Analysis* Topics include: Intro to R/R Studio, Project Management, Reading and writing data, Data frame manipulation, Graphics w/ ggplot2"
 ---
