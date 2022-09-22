@@ -6,7 +6,7 @@ title: Nominations
 
 ## 2022-23 Carpentries Club Board Member Elections are Open!
 
-**Nominations close September 18th @11:59pm.**
+**Nominations close September 25th @11:59pm.**
 
 Are you interested in advancing informatics skills and reproducible science at UF? 
 Join the UF Carpentries Club Board!
