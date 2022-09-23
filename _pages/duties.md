@@ -12,6 +12,7 @@ The Board is encouraged to be flexible and responsive in its delegation of respo
 
 As soon as feasible following each Board Meeting:
 
-* The **Secretary** publishes their minutes at the [minutes page]({{ site.baseurl }}/minutes/) and closes the issue at the [coordination repo issues page](https://github.com/UF-Carpentry/Coordination/issues) for the concluded meeting.
-* The **Chair-elect** creates an issue at the [coordination repo issues page](https://github.com/UF-Carpentry/Coordination/issues) with the date, time, and agenda for the next meeting.
-* The **Chair-elect** or **Secretary-elect** publishes an entry on the [events page]({{ site.baseurl }}/events/) for the next meeting.
+1. The **Secretary** publishes their minutes at the [minutes page]({{ site.baseurl }}/minutes/) and closes the issue at the [coordination repo issues page](https://github.com/UF-Carpentry/Coordination/issues) for the concluded meeting.
+2. The **Chair-elect** creates an issue at the [coordination repo issues page](https://github.com/UF-Carpentry/Coordination/issues) with the date, time, and agenda for the next meeting.
+3. The **Chair-elect** or **Secretary-elect** publishes an entry on the [events page]({{ site.baseurl }}/events/) for the next meeting.
+4. The **Chair-elect** emails the [`INFORMATICS-TEACHING-L` listserv](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L) an invitation to the next meeting.
