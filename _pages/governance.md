@@ -8,7 +8,7 @@ toc_sticky: true
 
 ## Meeting Minutes
 
-Meetings of the board are open to the UF community. We also keep minutes of our meetings to help make decision-making transparent. Please see the [minutes page]({{ site.baseurl }}/minutes/) for links to the minutes from each board meeting.
+Meetings of the board are open to the UF community. Agendas are posted to [the website issues page](https://github.com/UF-Carpentry/Coordination/issues), and comments are welcome. We also keep minutes of our meetings to help make decision-making transparent. Please see the [minutes page]({{ site.baseurl }}/minutes/) for links to the minutes from each board meeting.
 
 ## Current Board Members (random order)
 
@@ -35,9 +35,13 @@ The fees from our workshops go towards supporting club activities and also as tr
 
 You can follow UF Carpentries Club on a number of social media websites, which we update as per our [social media policy]({{site.baseurl}}/governance/social-media).
 
+## Board Duties
+
+Specific responsibilites of elected board members and board meeting chairs and secretaries are described on our [duties]({{ site.baseurl }}/duties/) page.
+
 ## Elections
 
-Elections are held annually. The current and previous events are described on our [elections]({{ site.baseurl }}/elections/) page. 
+Elections are held annually. The current and previous events are described on our [elections]({{ site.baseurl }}/elections/) page.
 
 ## Operations
 
