@@ -6,7 +6,7 @@ title: Nominations
 
 ## Carpentries Club Board Member Elections for 2022-2023 are Open!
 
-**Self-nominations for Board Members will remain open on a rolling basis for Fall 2023 Semester. Submit your self-nomination now!**
+**Self-nominations for Board Members will remain open on a rolling basis for Fall 2022 Semester. Submit your self-nomination now!**
 
 Are you interested in advancing informatics skills and reproducible science at UF? 
 Join the UF Carpentries Club Board!
@@ -39,7 +39,7 @@ In addition, one Board member may be designated the “Outreach Board Member.”
 4. Prior experience with or knowledge of the Carpentries is preferred.
 
 
-Interested candidates should self-nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. Self-nominations for Board Member elections will remain open on a rolling basis for Fall '23 Semester.
+Interested candidates should self-nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. Self-nominations for Board Member elections will remain open on a rolling basis for Fall '22 Semester.
 
 You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLSdNA7oD9FTUeCZhhaGwdFiKAIAm9CoUxyBSCf4OSbxVPiZLsA/viewform?usp=sf_link)
 
