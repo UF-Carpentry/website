@@ -43,6 +43,10 @@ Interested candidates should self-nominate with a short statement (300 words or 
 
 You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLSdNA7oD9FTUeCZhhaGwdFiKAIAm9CoUxyBSCf4OSbxVPiZLsA/viewform?usp=sf_link)
 
+You can cast your vote for current Board Member nominees through November 20. Please follow this link to complete your ballot:
+
+https://docs.google.com/forms/d/e/1FAIpQLSfHVKYsAosaN1fS3-PjvRS-TkU_fkj0Cwpi9lECUDtFeWeIzA/viewform
+
 ## Prior Elections
 
 [Fall 2020]({{ site.baseurl }}/posts/2020-10-06-WelcomeBoardMembers/)
