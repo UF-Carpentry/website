@@ -41,7 +41,7 @@ In addition, one Board member may be designated the “Outreach Board Member.”
 
 Interested candidates should self-nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. Self-nominations for Board Member elections will remain open on a rolling basis for Fall '22 Semester.
 
-You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLSdNA7oD9FTUeCZhhaGwdFiKAIAm9CoUxyBSCf4OSbxVPiZLsA/viewform?usp=sf_link)
+**You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLSdNA7oD9FTUeCZhhaGwdFiKAIAm9CoUxyBSCf4OSbxVPiZLsA/viewform?usp=sf_link)**
 
 You can cast your vote for current Board Member nominees through November 20. Please follow this link to complete your ballot:
 
