@@ -12,13 +12,12 @@ Meetings of the board are open to the UF community. Agendas are posted to [the w
 
 ## Current Board Members (random order)
 
-* Trista Brophy
-* Narayani Barve
-* Audrey Culver Smith
-* Amobichukwu Chukwudi Amanambu
-* Jason Cory Brunson
-* Caitlin Campbell
-* Amanda Markee
+* Ali Alruzuq 
+* Dellena Bloom 
+* Jason Cory Brunson 
+* CJ Campbell 
+* Audrey Culver Smith 
+* Ke Zhang
 
 
 [Previous board members]({{ site.baseurl }}/prior_board/)
