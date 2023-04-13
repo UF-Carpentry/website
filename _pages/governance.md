@@ -14,6 +14,7 @@ Meetings of the board are open to the UF community. Agendas are posted to [the w
 
 * Ali Alruzuq 
 * Dellena Bloom 
+* Vaasuki Marupaka
 * Jason Cory Brunson 
 * CJ Campbell 
 * Audrey Culver Smith 
