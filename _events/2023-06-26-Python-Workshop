@@ -1,0 +1,10 @@
+---
+title: "Shell, Git, Plotting & Programming in Python"
+layout: single
+menu: "main"
+start: 2023-06-26 09:00:00 ET
+end:   2023-06-27 16:30:00 ET
+location: "Zoom Online Workshop" 
+website: "https://s-canchi.github.io/2023-06-26-ufl-online/"
+topics: "*Unix Shell*, *Version Control with Git*, *Variable Assignment*, *Data Types & Conversion*, *DataFrames*, *Plotting*, *For Loops & Conditionals*, *Writing Functions*"
+---
