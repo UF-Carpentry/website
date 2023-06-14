@@ -6,5 +6,5 @@ start: 2023-06-26 09:00:00 ET
 end:   2023-06-27 16:30:00 ET
 location: "Zoom Online Workshop" 
 website: "https://s-canchi.github.io/2023-06-26-ufl-online/"
-topics: "Topics include: Unix Shell, JupyterLab, Version Control with Git, Data Structures & Managememt, Conditionals & Loops, Writing Functions, Building Plots*"
+topics: "Topics include: Unix Shell, JupyterLab, Version Control with Git, Data Structures & Managememt, Conditionals & Loops, Writing Functions, Building Plots"
 ---
