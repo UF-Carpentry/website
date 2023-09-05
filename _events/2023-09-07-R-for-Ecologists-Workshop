@@ -1,0 +1,10 @@
+---
+title: "Data Analysis and Visualization in R for Ecologists"
+layout: single
+menu: "main"
+start: 2023-09-07 09:00:00 EST
+end: 2032-09-08 4:30:00 EST
+location: "UF Informatics Institue, CSE Bldg, Rm E252"
+website: "https://datacarpentry.org/R-ecology-lesson/index.html/"
+topics: "*Intro to R*, *Manipulating, analyzing & exporting data with tidyverse*, *Data visualization w/ ggplot2*"
+---
