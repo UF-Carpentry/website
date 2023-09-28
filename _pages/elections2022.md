@@ -4,12 +4,12 @@ permalink: /elections/
 title: Nominations
 ---
 
-## Carpentries Club Board Member Elections for 2022-2023 are Open!
+## UF Carpentries Club Board Member Nominations for 2023-2024 are Open!
 
-**Self-nominations for Board Member Elections will remain open on a rolling basis for Fall 2022 Semester. Submit your self-nomination now!**
+**Nominations will close at midnight of October 8th. Submit your self-nomination now!**
 
 Are you interested in advancing informatics skills and reproducible science at UF? 
-Join the UF Carpentries Club Board!
+Join the UF Carpentries Club Governing Board!
 
 The Carpentries is an international organization that teaches foundational coding and data science skills to researchers worldwide. The *UF Carpentries Club* is dedicated to bringing the Carpentries' inclusive and supportive culture and curricula to the University of Florida, primarily through 2-day instructional workshops in R, Python, GitHub and more!
 
@@ -41,11 +41,11 @@ In addition, one Board member may be designated the “Outreach Board Member.”
 
 Interested candidates should self-nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. Self-nominations for Board Member elections will remain open on a rolling basis for Fall '22 Semester.
 
-**You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLSdNA7oD9FTUeCZhhaGwdFiKAIAm9CoUxyBSCf4OSbxVPiZLsA/viewform?usp=sf_link)**
+**You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLScucnc7o0MuNil8em-c9RNNCasFVkYvk5l0kB8Qhoi8qZ3YQQ/viewform?usp=sf_link)**
 
-You can cast your vote for current Board Member nominees through November 20. Please follow this link to complete your ballot:
+Public voting for Board Members will open on October 9th. You can cast your vote for current Board Member nominees through October 22nd. Please follow this link to complete your ballot:
 
-https://docs.google.com/forms/d/e/1FAIpQLSfHVKYsAosaN1fS3-PjvRS-TkU_fkj0Cwpi9lECUDtFeWeIzA/viewform
+[https://docs.google.com/forms/d/e/1FAIpQLSc_dyb1RH0CV0hrFPNFojrbu2AsbNXfHZdKT1uj8w23KsX8vw/viewform?usp=sf_link]
 
 ## Prior Elections
 
