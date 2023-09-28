@@ -6,7 +6,7 @@ title: Nominations
 
 ## 2023-2024 UF Carpentries Club Board Nominations!
 
-**Nominations are due back by midnight of October 18th.**
+**Nominations are due back by midnight of October 8th.**
 
 Are you interested in advancing informatics skills and reproducible science at UF? 
 Join the UF Carpentries Club Board!
@@ -36,7 +36,7 @@ In addition, one Board member may be designated the “outreach Board member”.
 3. Is not required to have instructed, organized, or financially supported a Carpentry workshop.
 4. Prior experience with or knowledge of the Carpentries is preferred.
 
-Candidates will self nominate with a short statement (< 300 words) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. The deadline for self-nominations is 11:59 pm on Thursday, September 16th.
+Candidates will self nominate with a short statement (< 300 words) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. The deadline for self-nominations is 11:59 pm on Sunday, October 8th.
 
 You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLScucnc7o0MuNil8em-c9RNNCasFVkYvk5l0kB8Qhoi8qZ3YQQ/viewform?usp=sf_link).
 
