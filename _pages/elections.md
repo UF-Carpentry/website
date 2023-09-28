@@ -4,18 +4,18 @@ permalink: /elections/
 title: Nominations
 ---
 
-## 2021-2022 UF Carpentries Club Board Nominations!
+## 2023-2024 UF Carpentries Club Board Nominations!
 
-**Nominations are due back by midnight of Sept. 16th.**
+**Nominations are due back by midnight of October 18th.**
 
 Are you interested in advancing informatics skills and reproducible science at UF? 
 Join the UF Carpentries Club Board!
 
-The Carpentries is an international organization that teaches foundational coding and data science skills to researchers worldwide. The UF Carpentries Club is dedicated to bringing the inclusive and supportive culture and curricula to the University of Florida, primarily through 2-day instructional workshops in R, Python, GitHub and more!
+The Carpentries is an international organization that teaches foundational coding and data science skills to researchers worldwide. The UF Carpentries Club is dedicated to bringing the inclusive and supportive culture and curricula to the University of Florida, primarily through 2-day instructional workshops in R, Python, GitHub, and more!
 
 Our Board is composed of 7 representatives, who coordinate the workshop schedule, interface with our supporters, and create opportunities for peer learning at UF and beyond. As a member of the Board, you will network with data science peers from different backgrounds, be involved in the organizational aspects of the largest cross-departmental group promoting informatics literacy at UF, and help make the local Carpentries community grow and be successful.
 
-If you would like to become more involved in lesson planning, teaching, community building, and more, please consider self-nominating for a Board position for the academic year October 2021- September 2022.
+If you would like to become more involved in lesson planning, teaching, community building, and more, please consider self-nominating for a Board position for the academic year October 2023- September 2024.
 
 The eligibility criteria for individuals to stand for election to the Board are:
 
@@ -38,7 +38,7 @@ In addition, one Board member may be designated the “outreach Board member”.
 
 Candidates will self nominate with a short statement (< 300 words) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. The deadline for self-nominations is 11:59 pm on Thursday, September 16th.
 
-You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLSeQ2kFPbyPOyp_bOYws_eE1CuQL-IFzzL_4BEjpmscV2n8pvQ/viewform?usp=sf_link).
+You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLScucnc7o0MuNil8em-c9RNNCasFVkYvk5l0kB8Qhoi8qZ3YQQ/viewform?usp=sf_link).
 
 ## Prior Elections
 
