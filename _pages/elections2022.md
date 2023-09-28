@@ -15,7 +15,7 @@ The Carpentries is an international organization that teaches foundational codin
 
 The UF Carpentries Club Board is composed of seven board members elected to 1-year terms. The Club Board members work together to coordinate the workshop schedule, interface with club supporters & sponsors, and create opportunities for inclusive peer learning at UF and beyond. As a member of the Board, you will network with data science peers from different backgrounds, be involved in the organizational aspects of the largest cross-departmental group promoting informatics literacy at UF, and help the local Carpentries community grow and be successful in bringing The Carpentries Organization's mission of promoting inclusive learning and teaching of informatic skills via collaborately developed- and openly-available data and software capentry lessons.
 
-If you would like to become more involved in lesson planning, teaching, community building, and more, please consider self-nominating for a Board Member position for the 2022-2023 academic year* (*1-year board member terms are from October-September).
+If you would like to become more involved in lesson planning, teaching, community building, and more, please consider self-nominating for a Board Member position for the 2032-2024 academic year* (*1-year board member terms are from October-September).
 
 The eligibility criteria for individuals to stand for election to the Board include:
 
