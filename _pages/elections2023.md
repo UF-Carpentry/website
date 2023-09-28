@@ -29,7 +29,7 @@ Board member postions may vary based on the elected member's skillset and desire
 * Data Master (manages data on Github)
 * Meeting Chair (creates zoom link for meeting, creates & posts agenda to Github, sends email notice of meeting email to Informatics listserv & Carpentries board with appropriate links)* 
 * Meeting Secretary (takes meeting notes during board meetings and creates minutes file in Github to post to website after meeting)*
-*   *These positions rotate every 2 meetings to a different board member and all board members share this responsibility at some time during their term.
+  - These positions rotate every 2 meetings to a different board member and all board members share this responsibility at some time during their term.
 
 In addition, one Board member may be designated the “Outreach Board Member.” The criteria to stand for election for the position of Outreach Board Member include:
 
@@ -39,11 +39,13 @@ In addition, one Board member may be designated the “Outreach Board Member.”
 4. Prior experience with or knowledge of the Carpentries is preferred.
 
 
-Interested candidates should self-nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. Self-nominations for Board Member elections will remain open on a rolling basis for Fall '22 Semester.
+Interested candidates should self-nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. Self-nominations for Board Member elections will close on October 8th.
 
 **You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLScucnc7o0MuNil8em-c9RNNCasFVkYvk5l0kB8Qhoi8qZ3YQQ/viewform?usp=sf_link)**
 
-Public voting for Board Members will open on October 9th. You can cast your vote for Board Member nominees through October 22nd. Please follow this link to complete your ballot:(The link to voting ballots will be available on Oct. 9th- please check back then-thank you!)
+Public voting for Board Members will open on October 9th. You can cast your vote for Board Member nominees through October 22nd. 
+
+Please follow this link to complete your ballot: (The link to voting ballots will be available on Oct. 9th- please check back then-thank you!)
 
 
 
