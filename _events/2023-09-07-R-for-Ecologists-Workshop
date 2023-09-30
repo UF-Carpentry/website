@@ -3,7 +3,7 @@ title: "Data Analysis & Visualization in R for Ecologists"
 layout: single
 menu: "main"
 start: 2023-09-07 09:00:00 EST
-end: 2032-09-08 4:30:00 EST
+end: 2023-09-08 4:30:00 EST
 location: "In-Person Workshop: @UFII, CSE Bldg, Rm E252"
 website: "https://datacarpentry.org/R-ecology-lesson/index.html"
 topics: "Topics include: Intro to R, Creating objects, Vectors & data types, Functions, Data analysis with tidyverse, Data visualization w/ ggplot2"
