@@ -6,7 +6,7 @@ title: Nominations
 
 ## UF Carpentries Club Board Member Nominations for 2023-2024 are Open!
 
-**Nominations for new members of the Carpentries Club Governing Board are open until Nov. 20th- Submit your self-nomination now!**
+**Nominations for new Carpentry Club Club Board Members are open until November 20th- Submit your self-nomination now!**
 
 Are you interested in advancing informatics skills and reproducible science at UF? 
 Join the UF Carpentries Club Governing Board!
@@ -39,13 +39,13 @@ In addition, one Board member may be designated the “Outreach Board Member.”
 4. Prior experience with or knowledge of the Carpentries is preferred.
 
 
-Interested candidates should self-nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. Self-nominations for Board Member elections will close on October 8th.
+Interested candidates should self-nominate with a short statement (300 words or less) to be publicly posted for voters to review. If you would like to serve as an “outreach board member” please note this in your statement. Self-nominations for Board Member elections will close on Novemeber 20th.
 
 **You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLScucnc7o0MuNil8em-c9RNNCasFVkYvk5l0kB8Qhoi8qZ3YQQ/viewform?usp=sf_link)**
 
-Public voting for Board Members will open on November 21th. You can cast your vote for Board Member nominees through November 28th. 
+Public voting for Board Members will open on November 22nd. You can cast your vote for Board Member nominees through November 29th. 
 
-Please follow this link to complete your ballot: (The link to voting ballots will be available on Nov. 21st- please check back then-thank you!)
+Please follow this link to complete your ballot: (The link to voting ballots will be available on Nov. 22nd- please check back then-thank you!)
 
 
 
