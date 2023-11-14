@@ -6,7 +6,7 @@ title: Nominations
 
 ## UF Carpentries Club Board Member Nominations for 2023-2024 are Open!
 
-**Nominations will close at midnight of October 8th. Submit your self-nomination now!**
+**Nominations for new members of the Carpentries Club Governing Board are open until Nov. 20th- Submit your self-nomination now!**
 
 Are you interested in advancing informatics skills and reproducible science at UF? 
 Join the UF Carpentries Club Governing Board!
@@ -19,12 +19,12 @@ If you would like to become more involved in lesson planning, teaching, communit
 
 The eligibility criteria for individuals to stand for election to the Board include:
 
-1. (Required) Must be a current member of the “UF community”, broadly defined (e.g., student, staff, faculty, post-doc, associated researcher, etc.).
-2. (Preferred) Previously participated in a Carpentry event in any capacity (learner, helper, instructor, organizer, host, or funder) at UF or elsewhere in the past 2 years. Note: Attending Club Board meetings is included as a Carpentry "event."
+1. (Required) Must be a current member of the “UF community”, broadly defined (student, staff, faculty, post-doc, associated researcher, etc.).
+2. (Preferred) Previously participated in a Carpentry event in any capacity (learner, helper, instructor, organizer, host, or funder) at UF or elsewhere in the past two years. Note: Attending Club Board meetings is included as a Carpentry "event."
 
 Board member postions may vary based on the elected member's skillset and desired contribution. Typical positions include:
 
-* Carpentries Coordinator (coordinates communication with The Carpentries international organization to maintain our membership, coordinate instructor trainings, etc)
+* Carpentries Coordinator (coordinates communication with The Carpentries international organization to maintain club membership, coordinate instructor trainings, etc)
 * Social Media Coordinator (creates and posts events and announcements to Facebook and Twitter)
 * Data Master (manages data on Github)
 * Meeting Chair (creates zoom link for meeting, creates & posts agenda to Github, sends email notice of meeting email to Informatics listserv & Carpentries board with appropriate links)* 
@@ -43,7 +43,7 @@ Interested candidates should self-nominate with a short statement (300 words or 
 
 **You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLScucnc7o0MuNil8em-c9RNNCasFVkYvk5l0kB8Qhoi8qZ3YQQ/viewform?usp=sf_link)**
 
-Public voting for Board Members will open on October 9th. You can cast your vote for Board Member nominees through October 22nd. 
+Public voting for Board Members will open on November 27th. You can cast your vote for Board Member nominees through December 1st. 
 
 Please follow this link to complete your ballot: (The link to voting ballots will be available on Oct. 9th- please check back then-thank you!)
 
