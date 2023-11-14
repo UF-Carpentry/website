@@ -43,9 +43,9 @@ Interested candidates should self-nominate with a short statement (300 words or 
 
 **You can nominate yourself [here](https://docs.google.com/forms/d/e/1FAIpQLScucnc7o0MuNil8em-c9RNNCasFVkYvk5l0kB8Qhoi8qZ3YQQ/viewform?usp=sf_link)**
 
-Public voting for Board Members will open on November 27th. You can cast your vote for Board Member nominees through December 1st. 
+Public voting for Board Members will open on November 21th. You can cast your vote for Board Member nominees through November 28th. 
 
-Please follow this link to complete your ballot: (The link to voting ballots will be available on Oct. 9th- please check back then-thank you!)
+Please follow this link to complete your ballot: (The link to voting ballots will be available on Nov. 21st- please check back then-thank you!)
 
 
 
