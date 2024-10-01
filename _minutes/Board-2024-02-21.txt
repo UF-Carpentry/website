@@ -1,0 +1,62 @@
+---
+layout: single
+title: "2024-02-21 Board Meeting"
+menu: "main"
+date: 2024-02-21
+excerpt: "21 February 2024 Meeting"
+---
+
+###### tags: `UF Caprentries` `Meeting` `Minutes`
+
+## Meeting Info
+
+- **Location:** Remote
+- **Date:** 2024 February 21, 10:00 (ET)
+- **Agenda**
+
+1. Introductions
+2. Approval of [Jan 23 minutes]([https://www.uf-carpentries.org/minutes/board-2024-01-23/])
+3. Sponsorships update
+4. Budget update
+5. Membership renewal 
+6. Any other business
+
+- **Participants:**
+    - Present: Ke, Cory, Flora, Yiyang (Calvin)
+    - **Chair:** Ke Zhang
+    - **Secretary:** Ke Zhang
+
+## Notes
+<!-- Other important details discussed during the meeting can be entered here. -->
+
+### Introductions
+* Introduce to the new board member Yiyang (Calvin) Kang.
+
+### Approving minutes
+* Jan 23, 2024 minutes were approved
+
+### Sponsorships update
+* We will have Calvin contact his department for potential sponsorship.
+* We will keep trying to find potential sponsorship from other departments.
+* Libraries will provide another 1000 dollars as sponsorship. 
+
+### Budget update
+* Libraries will provide another 1000 dollars as sponsorship, need to follow up to see if all sponsorships are received.
+
+### Membership renewal
+* We may restart our membership later this year when we have enough funding.
+
+### Other
+* No other notes
+
+### Next Board Meeting
+* Chair: Dellena
+* Secretary: TBD
+* Date: March 5th, 2024
+* Schedule: 1-2 pm (EST)
+
+1. Introductions
+2. Approval of Feb 21st minutes
+3. Sponsorship solicitation
+4. Other
+
