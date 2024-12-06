@@ -13,11 +13,9 @@ Meetings of the board are open to the UF community. Agendas are posted to [the w
 ## Current Board Members (random order)
 
 * Ali Alruzuq 
-* Dellena Bloom 
+* Dellena Bloom
+* Yiyang (Calvin) Kang
 * Vaasuki Marupaka
-* Jason Cory Brunson 
-* CJ Campbell 
-* Audrey Culver Smith 
 * Ke Zhang
 
 
